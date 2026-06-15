@@ -134,6 +134,10 @@
   function showHomeTab(tab) {
     const ct = document.getElementById('homeTabContent');
     if (!ct) return;
+    const totalVF = (DATA.vraiFaux ? Object.values(DATA.vraiFaux).reduce((s,a) => s + (a ? a.length : 0), 0) : 0);
+    const totalSheets = (DATA.revisionSheets ? Object.values(DATA.revisionSheets).reduce((s,a) => s + (a ? a.length : 0), 0) : 0);
+    const totalGlossary = (DATA.glossary || []).length;
+    const totalCases = (DATA.applicationCases ? Object.values(DATA.applicationCases).reduce((s,a) => s + (a ? a.length : 0), 0) : 0);
     if (tab === 'quiz') {
       ct.innerHTML = `
         <div class="home-grid">

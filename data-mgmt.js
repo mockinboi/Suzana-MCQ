@@ -1647,6 +1647,301 @@ window.APP_DATA.applicationCases.mgmt.push(
       }
     ],
     source: "CH5 - CSR, Triple Bottom Line, Sustainability; CH6 - International Management; CH12 - Leadership; CH13 - Motivation"
+  },
+  {
+    id: "mgcase_01",
+    title: "TechNova — Groupthink in a Product Development Team",
+    subject: "Management — Decision Making & Group Dynamics",
+    scenario: "TechNova is a mid-sized software company based in Austin, Texas, specializing in enterprise resource planning (ERP) solutions. The company's flagship product, NovaSuite 4.0, is scheduled for release in eight weeks. The product development team — a tightly knit group of twelve engineers and designers who have worked together for over three years — is responsible for the final feature set and launch timeline.\n\nDuring a critical planning meeting, the team leader, Marcus Chen, presents an aggressive launch plan that requires cutting the beta testing phase from six weeks to two. Several junior engineers privately express concerns about shipping with known stability issues, but when Marcus asks for feedback, the room falls silent. One engineer, Priya Desai, begins to raise an objection about a memory leak in the analytics module, but she is quickly interrupted by a senior developer who says, 'We've always delivered on time — let's not overthink this.' The rest of the team nods in agreement.\n\nNo one is assigned to critically evaluate the plan. The team proceeds with unanimous approval, despite internal doubts. Three weeks after launch, NovaSuite 4.0 experiences widespread crashes at client sites, costing TechNova two major enterprise contracts worth $4.2 million and severely damaging its reputation. A post-mortem review reveals that at least four team members had reservations but chose not to voice them.",
+    questions: [
+      {
+        question: "Which of the following is the STRONGEST symptom of groupthink exhibited by the TechNova team?",
+        options: [
+          "A. Self-censorship — team members withheld their objections to maintain group harmony",
+          "B. Social loafing — team members reduced their individual effort during development",
+          "C. Goal displacement — the team's procedures became more important than the product",
+          "D. Framing effects — the problem was presented in a misleading way by Marcus"
+        ],
+        correct: 0,
+        explanation: "Self-censorship is a classic symptom of groupthink. Four team members had reservations but chose not to voice them, suppressing dissent to preserve the illusion of unanimity and group cohesion.",
+        source: "CH3 - Groupthink"
+      },
+      {
+        question: "If TechNova had assigned one team member to deliberately challenge Marcus's launch plan and question its assumptions, this person would be serving in which role?",
+        options: [
+          "A. Liaison role as described by Mintzberg",
+          "B. Devil's advocate — assigned to critique and challenge proposals",
+          "C. Disturbance handler responding to a crisis",
+          "D. Disseminator sharing information across the organization"
+        ],
+        correct: 1,
+        explanation: "A devil's advocate is deliberately assigned to challenge assumptions, critique proposals, and force the group to re-examine its reasoning. This role directly combats groupthink by ensuring dissenting views are heard.",
+        source: "CH3 - Devil's Advocate"
+      },
+      {
+        question: "Priya's attempted objection about the memory leak — which focused on a technical issue rather than a personal disagreement — is an example of which type of conflict?",
+        options: [
+          "A. Affective (relationship) conflict based on personal animosity",
+          "B. Political conflict over resource allocation",
+          "C. Cognitive (task) conflict — a constructive disagreement about ideas and content",
+          "D. Interorganizational conflict between TechNova and its clients"
+        ],
+        correct: 2,
+        explanation: "Cognitive (task) conflict involves disagreements about ideas, tasks, and the substance of decisions. Priya's concern about a technical memory leak was a task-focused objection that could have improved decision quality if heard.",
+        source: "CH3 - Cognitive vs Affective Conflict"
+      },
+      {
+        question: "To avoid groupthink in future product decisions, TechNova could use a technique where experts submit anonymous opinions through iterative rounds without face-to-face pressure. This technique is called:",
+        options: [
+          "A. Brainstorming with deferred judgment",
+          "B. Management by objectives (MBO)",
+          "C. The dialectic method using thesis and antithesis",
+          "D. The Delphi technique — anonymous, iterative expert questionnaires"
+        ],
+        correct: 3,
+        explanation: "The Delphi technique gathers expert opinions through multiple rounds of anonymous questionnaires, eliminating face-to-face conformity pressure and reducing groupthink. It would have allowed TechNova engineers to voice concerns without social pressure.",
+        source: "CH3 - Delphi Technique"
+      }
+    ],
+    analysis: "The TechNova case is a textbook example of groupthink as defined by Irving Janis. The team exhibited multiple symptoms: self-censorship (members withheld objections), illusion of unanimity (silence was interpreted as agreement), and direct pressure on dissenters (Priya was interrupted when she tried to raise concerns). The team's high cohesion — having worked together for three years — ironically became a liability, as the desire to maintain group harmony overrode the need for critical evaluation.\n\nThe absence of structured dissent mechanisms, such as a devil's advocate or dialectic debate, left the team vulnerable to confirmation bias and premature consensus. The post-mortem finding that four members had reservations but stayed silent demonstrates the destructive power of groupthink: it transforms individual rationality into collective irrationality.\n\nFrom a decision-making perspective, the team operated under bounded rationality but compounded it with social pressure. The rush to meet the deadline created conditions where satisficing (accepting a 'good enough' plan) became accepting a clearly deficient one. The $4.2 million loss illustrates why cognitive conflict — task-focused disagreement — is essential for decision quality.",
+    recommendation: "TechNova should institutionalize structured dissent in all critical product decisions. First, assign a rotating devil's advocate role in every major planning meeting, ensuring someone is explicitly tasked with challenging assumptions. Second, for high-stakes decisions like product launches, use the Delphi technique to collect anonymous input from all team members before group discussion, removing social pressure.\n\nAdditionally, leadership training for Marcus should emphasize the difference between cognitive and affective conflict, helping him create a psychologically safe environment where technical objections are welcomed rather than suppressed. The company should establish a formal gate review process requiring sign-off from independent quality assurance before any beta testing phase can be shortened.",
+    sources: ["CH3 - Groupthink", "CH3 - Devil's Advocate", "CH3 - Cognitive vs Affective Conflict", "CH3 - Delphi Technique"]
+  },
+  {
+    id: "mgcase_02",
+    title: "EcoBuild — Choosing Leadership Style for a Green Construction Firm",
+    subject: "Management — Leadership & Motivation",
+    scenario: "EcoBuild Construction is a regional construction company in Lyon, France, that has traditionally specialized in conventional residential buildings. The company's new CEO, Nadia Moreau, has announced a strategic pivot to sustainable and green construction methods, including passive house standards, recycled materials, and solar-integrated designs. This transition requires workers to learn entirely new techniques — from insulation methods to smart building systems — that most of the 120-person workforce has never encountered.\n\nThe workforce is divided into three groups. Group A consists of 40 veteran tradespeople with 15+ years of experience in conventional construction; they are highly skilled in traditional methods but openly resistant to the change, viewing green building as a 'fad' that will pass. Group B consists of 50 mid-career workers who are enthusiastic about the sustainability mission but lack any training in green construction techniques. Group C consists of 30 recent hires, mostly young graduates from a green building technology program, who are both competent in sustainable methods and highly motivated.\n\nNadia must choose appropriate leadership approaches for each group while also deciding whether to lead the overall transformation through inspiration and vision or through structured incentives and performance targets. She is also considering an empowerment initiative that would give project teams authority to make on-site decisions about materials and methods, but her operations director warns that the veteran workers may misuse this autonomy to revert to familiar conventional techniques.",
+    questions: [
+      {
+        question: "According to Hersey-Blanchard's Situational Leadership, which style should Nadia use for Group A (high competence in traditional methods but low commitment to the new green approach)?",
+        options: [
+          "A. S3 — Supporting/Participating: low task direction, high relationship support to address their resistance",
+          "B. S1 — Telling/Directing: high task direction with close supervision to force compliance",
+          "C. S4 — Delegating: let them work independently since they are experienced",
+          "D. S2 — Coaching/Selling: high task and high relationship to teach and motivate simultaneously"
+        ],
+        correct: 0,
+        explanation: "Group A has high competence (skilled tradespeople) but low commitment (resistant to change). Hersey-Blanchard's S3 Supporting/Participating style is appropriate: provide relationship support, involve them in decisions, and address their motivational concerns rather than directing their tasks, since they already have strong technical foundations.",
+        source: "CH12 - Situational Leadership (Hersey-Blanchard)"
+      },
+      {
+        question: "For Group B (enthusiastic but lacking green construction skills), which Path-Goal Theory leadership style would be MOST effective?",
+        options: [
+          "A. Achievement-oriented leadership setting extremely challenging performance targets",
+          "B. Directive leadership — providing clear guidance, training schedules, and step-by-step procedures for new techniques",
+          "C. Laissez-faire leadership allowing them to figure out green methods on their own",
+          "D. Supportive leadership focused only on building friendly relationships"
+        ],
+        correct: 1,
+        explanation: "Group B is motivated but lacks skills, creating task ambiguity. Path-Goal Theory prescribes directive leadership when tasks are ambiguous and followers need clarity: the leader should provide specific guidance, training, and clear procedures to help them learn the new green construction techniques.",
+        source: "CH12 - Path-Goal Theory (House)"
+      },
+      {
+        question: "Nadia wants to inspire the entire workforce to embrace sustainability as a moral imperative, not just a business strategy. This approach is MOST consistent with which leadership style?",
+        options: [
+          "A. Transactional leadership using contingent rewards for meeting green targets",
+          "B. Autocratic leadership mandating compliance through top-down directives",
+          "C. Transformational leadership — inspiring followers to transcend self-interest for a higher purpose",
+          "D. Bureaucratic leadership enforcing standardized green procedures"
+        ],
+        correct: 2,
+        explanation: "Transformational leadership inspires followers to go beyond their own self-interests for the good of the organization and a higher purpose. By framing sustainability as a moral imperative and creating a compelling vision, Nadia can use inspirational motivation and idealized influence to transform the workforce's attitudes.",
+        source: "CH12 - Transformational vs Transactional Leadership"
+      },
+      {
+        question: "The operations director's concern that empowered veteran workers might revert to conventional techniques highlights which risk of empowerment?",
+        options: [
+          "A. Social loafing — workers will exert less effort when given autonomy",
+          "B. Groupthink — workers will conform to each other's green building preferences",
+          "C. The Hawthorne effect — workers will perform differently when observed",
+          "D. Empowerment without alignment — granting authority to employees whose goals do not align with organizational objectives"
+        ],
+        correct: 3,
+        explanation: "Empowerment is effective only when employees' goals align with organizational goals. If veteran workers are empowered but remain uncommitted to the green transition, they may use their autonomy to pursue their own preferences (conventional methods) rather than organizational objectives. Empowerment must be paired with motivation and commitment.",
+        source: "CH13 - Empowerment & Motivation"
+      }
+    ],
+    analysis: "The EcoBuild case illustrates a core principle of situational leadership: there is no single best leadership style, and effective leaders must adapt their approach to the readiness level of different followers. Hersey-Blanchard's model is particularly relevant here because the three workforce groups represent three distinct combinations of competence and commitment, each requiring a different blend of task and relationship behavior.\n\nThe tension between transformational and transactional leadership is also central. While Nadia needs transformational leadership to create a shared vision and emotional commitment to sustainability, she also needs transactional elements — training programs, performance metrics, and structured incentives — to ensure the practical skill development occurs. The most effective approach combines both: a transformational vision supported by transactional execution mechanisms.\n\nThe empowerment dilemma reveals an important caveat in motivation theory: autonomy and empowerment are powerful motivators (consistent with Herzberg's motivators and self-determination theory), but they require a foundation of aligned goals and adequate competence. Empowering workers who lack either the skills or the commitment to pursue organizational objectives can be counterproductive.",
+    recommendation: "Nadia should implement a differentiated leadership strategy. For Group A (resistant veterans), use participating/supporting leadership combined with involvement in decision-making to rebuild their commitment — invite them to contribute their construction expertise to solving green building challenges, reframing sustainability as an extension of craftsmanship rather than a replacement. For Group B (enthusiastic but unskilled), deploy directive leadership with intensive training programs and clear milestones. For Group C (competent and motivated), delegate authority and use them as internal mentors and change champions.\n\nThe empowerment initiative should be phased: begin by empowering Group C immediately, extend empowerment to Group B after training milestones are met, and offer empowerment to Group A only after demonstrated commitment to the green approach. This graduated approach ensures that autonomy is matched with both competence and alignment.",
+    sources: ["CH12 - Situational Leadership (Hersey-Blanchard)", "CH12 - Path-Goal Theory (House)", "CH12 - Transformational vs Transactional Leadership", "CH13 - Empowerment & Motivation"]
+  },
+  {
+    id: "mgcase_03",
+    title: "PharmaCare — Ethical Dilemma in Drug Pricing",
+    subject: "Management — Ethics & Corporate Social Responsibility",
+    scenario: "PharmaCare International is a large pharmaceutical company headquartered in Zurich, Switzerland. Its research division has developed Curavex, a breakthrough medication for a rare but fatal tropical disease that affects approximately 2 million people annually, predominantly in Sub-Saharan Africa and Southeast Asia. The drug costs $1.2 billion to develop over ten years, and PharmaCare holds the patent for the next 15 years.\n\nThe company's pricing committee must decide on a global pricing strategy. The CFO, Hans Richter, proposes pricing Curavex at $14,000 per annual treatment course — a price that would recoup R&D costs within seven years and generate strong shareholder returns. At this price, fewer than 5% of affected patients could afford the drug, even with international aid. The head of global health partnerships, Dr. Amara Osei, argues for a tiered pricing model: $14,000 in high-income countries, $800 in middle-income countries, and $50 (at manufacturing cost) in low-income countries. This model would reach approximately 60% of patients but would delay full R&D cost recovery to 12 years.\n\nThe board is divided. Some directors invoke their fiduciary duty to shareholders. Others point to PharmaCare's stated mission: 'Advancing health for all people, everywhere.' Meanwhile, an investigative journalist has obtained internal emails showing that PharmaCare executives discussed the 'reputational risk' of being seen as profiting from a disease of poverty. The company's ethics committee has flagged seven warning signs of an unethical decision, including the 'newspaper test' — would you be comfortable if this decision appeared on the front page?\n\nPharmaCare also faces pressure from activist organizations threatening boycotts and from governments in affected countries considering compulsory licensing to produce generic versions.",
+    questions: [
+      {
+        question: "The CFO's argument that PharmaCare should maximize shareholder returns through high pricing reflects which ethical system?",
+        options: [
+          "A. Egoism — acting primarily in one's own (or the company's) self-interest",
+          "B. Utilitarianism — seeking the greatest good for the greatest number",
+          "C. Universalism — applying moral rules consistently regardless of consequences",
+          "D. Virtue ethics — acting based on the character of the decision maker"
+        ],
+        correct: 0,
+        explanation: "The CFO's position prioritizes the company's financial self-interest (shareholder returns) above other considerations. Egoism holds that individuals or organizations should act in their own self-interest, which is exactly what the high-price-for-maximum-profit strategy represents.",
+        source: "CH5 - Ethical Systems"
+      },
+      {
+        question: "Dr. Osei's tiered pricing model, which aims to make the drug accessible to 60% of patients across all income levels, is MOST consistent with which ethical framework?",
+        options: [
+          "A. Ethical relativism — adjusting standards based on cultural context",
+          "B. Utilitarianism — producing the greatest good for the greatest number of people",
+          "C. Egoism — maximizing the company's long-term competitive position",
+          "D. Virtue ethics — reflecting the personal character of Dr. Osei"
+        ],
+        correct: 1,
+        explanation: "Utilitarianism evaluates decisions based on their consequences and seeks the greatest good for the greatest number. Dr. Osei's tiered model maximizes the total number of patients who can access the life-saving drug while still maintaining business viability — the classic utilitarian calculus.",
+        source: "CH5 - Ethical Systems"
+      },
+      {
+        question: "PharmaCare's mission statement ('Advancing health for all people, everywhere') combined with evaluating its impact on patients, the environment, and financial performance reflects which concept?",
+        options: [
+          "A. Porter's Five Forces analysis of industry competitiveness",
+          "B. The VRIO framework for sustained competitive advantage",
+          "C. The triple bottom line — evaluating people, planet, and profit simultaneously",
+          "D. Management by objectives (MBO) with participative goal-setting"
+        ],
+        correct: 2,
+        explanation: "The triple bottom line evaluates organizational performance across three dimensions: People (social impact on patients and communities), Planet (environmental considerations), and Profit (financial sustainability). PharmaCare's dilemma is fundamentally about balancing the 'people' and 'profit' dimensions of this framework.",
+        source: "CH5 - Triple Bottom Line"
+      },
+      {
+        question: "The ethics committee's reference to the 'newspaper test' — asking whether executives would be comfortable seeing this decision on the front page — is part of which ethical safeguard discussed in the course?",
+        options: [
+          "A. The PESTEL framework for environmental scanning",
+          "B. Hofstede's cultural dimensions for cross-cultural analysis",
+          "C. Simon's bounded rationality model for decision-making under constraints",
+          "D. The seven warning signs that an unethical decision is being made"
+        ],
+        correct: 3,
+        explanation: "The course identifies seven warning signs of potentially unethical decisions, including the 'newspaper test' (would you be comfortable if this appeared in the news?). This is a practical ethical safeguard that forces decision makers to consider public scrutiny and reputational consequences.",
+        source: "CH5 - Seven Warning Signs"
+      }
+    ],
+    analysis: "The PharmaCare case brings the major ethical systems into direct conflict. Egoism (maximize shareholder returns), utilitarianism (maximize total patient access), and universalism (apply the same moral duty to all patients regardless of ability to pay) each lead to a different pricing conclusion. The case demonstrates that ethical decision-making is not simply about choosing 'right' over 'wrong' but about navigating genuine tensions between legitimate ethical frameworks.\n\nThe triple bottom line provides a useful integrative lens. A purely profit-focused approach (the CFO's position) neglects the 'people' dimension and creates significant reputational and regulatory risk. A purely social approach (providing the drug free to everyone) would undermine financial sustainability and discourage future pharmaceutical innovation. Dr. Osei's tiered model attempts to balance all three dimensions, though imperfectly.\n\nThe seven warning signs framework is particularly relevant. The leaked internal emails discussing 'reputational risk' suggest that executives were already aware the high-price strategy might not pass the newspaper test. When decision makers feel the need to discuss how to manage the optics of a decision, it is often a signal that the decision itself requires ethical re-examination.",
+    recommendation: "PharmaCare should adopt Dr. Osei's tiered pricing model as a foundation, enhanced with additional CSR initiatives. The tiered approach balances fiduciary duty to shareholders (maintaining premium pricing in wealthy markets) with the company's stated mission and utilitarian ethics (maximizing patient access globally). To address the delayed R&D recovery, PharmaCare should explore public-private partnerships with international health organizations like the WHO and GAVI to subsidize distribution in low-income countries.\n\nThe company should also proactively publish its pricing rationale and access statistics, transforming a potential PR crisis into a demonstration of ethical leadership. This transparent approach passes the newspaper test and positions PharmaCare as a CSR leader, which research shows can strengthen brand value and customer loyalty in the long term. Finally, the ethics committee should be given formal authority to review all pricing decisions using the seven warning signs framework before board approval.",
+    sources: ["CH5 - Ethical Systems", "CH5 - Triple Bottom Line", "CH5 - Corporate Social Responsibility", "CH5 - Seven Warning Signs"]
+  },
+  {
+    id: "mgcase_04",
+    title: "GlobalFoods — Hofstede and International Expansion Challenges",
+    subject: "Management — International Management & Organizational Culture",
+    scenario: "GlobalFoods Inc. is a fast-casual restaurant chain headquartered in Copenhagen, Denmark, known for its flat organizational structure, employee empowerment, and consensus-based decision-making. The company has 85 locations across Scandinavia, where its management style aligns well with the local culture: low power distance, high individualism, and feminine values emphasizing work-life balance and egalitarianism. Employees at every level call managers by their first names, participate in strategic discussions, and enjoy significant autonomy in day-to-day operations.\n\nGlobalFoods is now expanding into Malaysia, a country characterized by high power distance, collectivism, and relatively high uncertainty avoidance according to Hofstede's cultural dimensions. The company has hired 200 local staff for its first 10 Malaysian locations. Initial results have been problematic: Malaysian employees are confused by the lack of formal hierarchy and clear directives, expecting their managers to make decisions and provide explicit instructions. When Danish managers ask Malaysian staff for input on menu adaptations or store layout, employees interpret this as managerial incompetence rather than participative leadership. Team meetings are silent, as junior employees consider it disrespectful to speak before senior colleagues.\n\nThe VP of International Operations, Lars Henriksen, insists on maintaining GlobalFoods' 'Danish DNA' across all markets, arguing that the company's egalitarian culture is its competitive advantage. However, the regional director for Southeast Asia, Mei Ling Tan, argues that the company must adapt its management practices to Malaysian cultural norms or risk alienating its entire local workforce.\n\nGlobalFoods has not conducted a formal environmental scan of the Malaysian market, and the expansion plan was developed primarily based on favorable economic indicators (growing middle class, rising demand for international dining) without systematic analysis of political, sociocultural, or legal factors.",
+    questions: [
+      {
+        question: "The clash between GlobalFoods' participative management style and Malaysian employees' expectation for clear hierarchical authority is BEST explained by which Hofstede dimension?",
+        options: [
+          "A. Power distance — Malaysia's high power distance means employees expect and accept hierarchical authority",
+          "B. Masculinity vs. femininity — Malaysia values competition over cooperation",
+          "C. Indulgence vs. restraint — Malaysia restricts employee gratification",
+          "D. Long-term vs. short-term orientation — Malaysia focuses on tradition over adaptation"
+        ],
+        correct: 0,
+        explanation: "Power distance measures the extent to which less powerful members accept unequal power distribution. Malaysia's high power distance means employees expect managers to make decisions and give clear directives, and they find the Danish egalitarian approach confusing and even disrespectful.",
+        source: "CH6 - Hofstede's Cultural Dimensions"
+      },
+      {
+        question: "Lars Henriksen's insistence on maintaining Danish management practices in Malaysia, believing them to be universally superior, reflects which international orientation?",
+        options: [
+          "A. Geocentrism — seeking the best practices from anywhere in the world",
+          "B. Ethnocentrism — the belief that home-country practices are inherently superior",
+          "C. Polycentrism — adapting to each host country's local practices",
+          "D. Cultural relativism — accepting that no culture's practices are objectively better"
+        ],
+        correct: 1,
+        explanation: "Ethnocentrism is the belief that one's own culture and management practices are inherently superior to others. Lars's insistence on maintaining 'Danish DNA' regardless of local context is a classic ethnocentric orientation that ignores the validity of local cultural norms.",
+        source: "CH6 - Ethnocentrism/Polycentrism/Geocentrism"
+      },
+      {
+        question: "GlobalFoods' failure to systematically analyze the political, sociocultural, and legal factors of the Malaysian market before expansion represents a neglect of which analytical framework?",
+        options: [
+          "A. Porter's Five Forces for industry competitiveness",
+          "B. The VRIO framework for resource-based competitive advantage",
+          "C. PESTEL analysis — a systematic scan of political, economic, sociocultural, technological, environmental, and legal factors",
+          "D. SWOT analysis of internal strengths and weaknesses"
+        ],
+        correct: 2,
+        explanation: "PESTEL analysis systematically examines the Political, Economic, Sociocultural, Technological, Environmental, and Legal dimensions of the external environment. GlobalFoods only considered economic factors (growing middle class) and neglected the sociocultural, political, and legal dimensions that proved critical to their operational challenges.",
+        source: "CH2 - PESTEL Analysis"
+      },
+      {
+        question: "Malaysian employees' silence in team meetings — where junior staff consider it disrespectful to speak before seniors — also reflects which Hofstede dimension beyond power distance?",
+        options: [
+          "A. Uncertainty avoidance — preferring structured interactions with clear rules of engagement",
+          "B. Masculinity — prioritizing competitive achievement over group harmony",
+          "C. Short-term orientation — focusing on immediate respect rather than long-term outcomes",
+          "D. Collectivism — prioritizing group harmony and in-group relationships over individual expression"
+        ],
+        correct: 3,
+        explanation: "In collectivist cultures, maintaining group harmony and respecting in-group hierarchies is paramount. Junior Malaysian employees' reluctance to speak before seniors reflects collectivism's emphasis on group cohesion and respect for social order, not just power distance. Speaking up could disrupt group harmony and cause the senior person to lose face.",
+        source: "CH6 - Hofstede's Cultural Dimensions"
+      }
+    ],
+    analysis: "The GlobalFoods case demonstrates how organizational culture and national culture can collide during international expansion. The company's competitive advantage in Scandinavia — its egalitarian, empowering management style — becomes a liability in a high power distance, collectivist culture like Malaysia. This illustrates a crucial insight from contingency theory: practices that are effective in one context may fail in another.\n\nHofstede's framework provides the diagnostic lens. Denmark scores very low on power distance (18) and high on individualism (74), while Malaysia scores very high on power distance (100) and low on individualism (26). These are not minor differences; they represent fundamentally different assumptions about the relationship between leaders and followers, individuals and groups. What Danish employees experience as empowerment, Malaysian employees experience as ambiguity and managerial abdication.\n\nThe tension between ethnocentrism (Lars) and polycentrism (Mei Ling) reflects a common strategic dilemma in international management. A purely ethnocentric approach risks cultural imperialism and operational failure. A purely polycentric approach risks losing the core identity and competitive advantage that made the company successful. The optimal solution typically lies in geocentrism — identifying which practices are universal and which must be adapted.",
+    recommendation: "GlobalFoods should adopt a geocentric approach that preserves core brand values while adapting management practices to local cultural norms. In Malaysia, this means introducing more structured hierarchy in daily operations — clear reporting lines, formal decision-making authority for managers, and structured meeting protocols where senior staff speak first — while maintaining the brand's warmth and employee-care values through other mechanisms like profit-sharing and career development programs.\n\nBefore entering any new market, GlobalFoods should mandate a comprehensive PESTEL analysis with particular emphasis on the sociocultural dimension, including Hofstede scores and their management implications. The company should also develop a cultural adaptation playbook that identifies which practices are 'non-negotiable core values' (e.g., respect for employees, quality standards) and which are 'culturally adaptable practices' (e.g., decision-making style, meeting formats, communication patterns).",
+    sources: ["CH6 - Hofstede's Cultural Dimensions", "CH6 - Ethnocentrism/Polycentrism/Geocentrism", "CH2 - PESTEL Analysis", "CH2 - Organizational Culture"]
+  },
+  {
+    id: "mgcase_05",
+    title: "MediTech — Restructuring from Functional to Matrix Organization",
+    subject: "Management — Organizational Structure & Managerial Roles",
+    scenario: "MediTech Devices is a medical device manufacturer based in Munich, Germany, with 1,200 employees organized in a traditional functional structure. The company has five departments — Engineering, Manufacturing, Quality Assurance, Marketing, and Regulatory Affairs — each headed by a vice president who reports directly to the CEO, Dr. Katrin Vogel. For years, this structure served MediTech well, providing deep functional expertise and clear lines of authority.\n\nHowever, as MediTech's product portfolio expanded from 3 to 12 product lines over the past decade, coordination problems have escalated dramatically. Product launches are delayed by an average of four months because each functional department works in isolation, passing projects sequentially rather than collaborating simultaneously. The Engineering VP blames Marketing for unclear product specifications; Marketing blames Engineering for ignoring customer feedback; and Regulatory Affairs is brought in too late, often requiring expensive redesigns to meet compliance standards. Dr. Vogel currently has 14 direct reports (five VPs plus nine project coordinators she added informally), leaving her overwhelmed and unable to provide adequate oversight.\n\nTo address these issues, Dr. Vogel proposes restructuring to a matrix organization where employees report to both their functional VP and a dedicated product line manager. Under this plan, an engineer working on the cardiac monitoring product line would report to the VP of Engineering for technical standards and career development, and to the Cardiac Products Manager for project priorities and deadlines. The VP of Engineering, Klaus Fischer, strongly opposes the change, arguing that it violates the principle of unity of command and will create confusion about who has final authority.\n\nDr. Vogel is also considering reducing her span of control by creating a new layer of senior directors between herself and the VPs, and establishing formal liaison roles to improve cross-departmental coordination.",
+    questions: [
+      {
+        question: "Dr. Vogel's current span of control of 14 direct reports is causing her to be overwhelmed. According to organizational design principles, what is the PRIMARY problem?",
+        options: [
+          "A. Her span of control is too wide, exceeding her capacity to effectively supervise and coordinate all direct reports",
+          "B. She has too few hierarchical levels in the organization",
+          "C. The organization is too decentralized for effective control",
+          "D. The functional structure has too many departments"
+        ],
+        correct: 0,
+        explanation: "Span of control refers to the number of employees a manager directly supervises. With 14 direct reports, Dr. Vogel's span is too wide for effective oversight, especially given the complexity of coordinating cross-functional product development. This leads to inadequate supervision and communication bottlenecks.",
+        source: "CH8 - Span of Control"
+      },
+      {
+        question: "Dr. Vogel's consideration of adding a new layer of senior directors between herself and the VPs would have which organizational effect?",
+        options: [
+          "A. It would flatten the organization and increase decentralization",
+          "B. It would increase centralization by adding another level through which decisions must pass before reaching the top",
+          "C. It would eliminate the need for a matrix structure entirely",
+          "D. It would reduce the total number of employees in the organization"
+        ],
+        correct: 1,
+        explanation: "Adding a new hierarchical layer increases centralization by creating an additional level through which information and decisions must pass. While it reduces Dr. Vogel's span of control, it also adds bureaucratic distance between the CEO and operational activities, potentially slowing decision-making.",
+        source: "CH8 - Centralization vs Decentralization"
+      },
+      {
+        question: "Klaus Fischer's objection that the matrix structure 'violates unity of command' identifies which genuine disadvantage of matrix organizations?",
+        options: [
+          "A. Matrix structures are too expensive to implement in manufacturing companies",
+          "B. Matrix structures eliminate all functional expertise and specialization",
+          "C. Employees reporting to two bosses face conflicting priorities, ambiguous authority, and potential role confusion",
+          "D. Matrix structures prevent any form of cross-functional collaboration"
+        ],
+        correct: 2,
+        explanation: "The primary disadvantage of matrix structures is dual reporting: employees report to two managers (functional and product/project), which can create conflicting priorities, ambiguous authority, power struggles between managers, and confusion about whose directives take precedence. This directly violates Fayol's unity of command principle.",
+        source: "CH8 - Matrix Structure"
+      },
+      {
+        question: "Dr. Vogel's plan to establish formal liaison roles for cross-departmental coordination corresponds to which of Mintzberg's managerial roles?",
+        options: [
+          "A. The figurehead role — performing symbolic and ceremonial duties",
+          "B. The monitor role — scanning the environment for information",
+          "C. The negotiator role — representing the organization in major negotiations",
+          "D. The liaison role — maintaining a network of contacts outside one's own unit for information and coordination"
+        ],
+        correct: 3,
+        explanation: "Mintzberg's liaison role involves maintaining a network of contacts outside one's own unit to exchange information and coordinate activities. Dr. Vogel's formal liaison roles are designed to create structured connections between functional departments, directly implementing this interpersonal role at the organizational design level.",
+        source: "CH1 - Mintzberg's Managerial Roles"
+      }
+    ],
+    analysis: "The MediTech case illustrates the classic tension between functional specialization and cross-functional coordination. Functional structures excel at developing deep expertise within departments but create silos that impede the lateral communication essential for complex, multi-disciplinary products like medical devices. As product complexity and portfolio breadth increase, the coordination costs of a purely functional structure can outweigh its specialization benefits.\n\nThe proposed matrix structure addresses the coordination problem by overlaying product-line management onto the existing functional departments. However, as Klaus Fischer correctly identifies, it introduces the unity of command problem: when an engineer receives conflicting directives from the VP of Engineering and the Cardiac Products Manager, whose authority prevails? Successful matrix organizations must establish clear protocols for resolving such conflicts, typically by defining which manager has authority over which types of decisions.\n\nDr. Vogel's span of control problem (14 direct reports) reflects a common growing pain in organizations that scale without restructuring. The informal addition of nine project coordinators was an ad hoc response to coordination needs, but it created an unsustainably wide span. The formal liaison role proposal, aligned with Mintzberg's interpersonal roles, represents a more structured approach to cross-departmental coordination that could complement either the existing functional structure or a new matrix design.",
+    recommendation: "MediTech should implement the matrix structure with clear authority protocols. For each product line, define a RACI matrix (Responsible, Accountable, Consulted, Informed) that specifies whether the functional VP or the product manager has final authority on different types of decisions — for example, functional VPs retain authority over technical standards, hiring, and career development, while product managers have authority over project timelines, resource allocation within their product line, and cross-functional prioritization.\n\nTo manage the transition, Dr. Vogel should reduce her span of control by empowering the five functional VPs and the new product line managers as a senior leadership team, eliminating the nine informal coordinator roles. The formal liaison roles should be established within each functional department as dedicated cross-functional coordinators who attend product line meetings and facilitate information flow. This layered approach preserves functional expertise while breaking down silos, and it addresses the unity of command concern by making authority boundaries explicit rather than ambiguous.",
+    sources: ["CH8 - Span of Control", "CH8 - Centralization vs Decentralization", "CH8 - Matrix Structure", "CH1 - Mintzberg's Managerial Roles"]
   }
 );
 

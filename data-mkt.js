@@ -1465,6 +1465,301 @@ window.APP_DATA.applicationCases.mkt = [
     analysis: "Netflix demonstrates strategic agility: recognizing PLC trends, pivoting before the decline stage, differentiating through original content, and using data-driven CRM for personalization. The challenge now is balancing subscriber growth (ad-supported tier) with the premium brand image built over years, while facing intense competition in a fragmenting streaming market.",
     recommendation: "Continue investing in local and international original content to strengthen global presence. Use the ad-supported tier as a customer acquisition funnel to upgrade users over time. Maintain data-driven personalization as a core competitive advantage that competitors cannot easily replicate.",
     sources: ["CH9 - PLC", "CH17 - Digital Marketing", "CH1 - CRM"]
+  },
+  {
+    id: "mkcase_03",
+    title: "GreenBite — Plant-Based Snack Launch and STP Strategy",
+    subject: "Marketing — Segmentation, Targeting, Positioning",
+    scenario: "GreenBite is a Belgian startup founded by two food scientists who developed a range of plant-based protein bars using locally sourced pea and fava bean protein. The Belgian snack bar market is worth approximately €180 million annually and is dominated by established players like Clif Bar, Nakd, and private-label offerings from Delhaize and Colruyt. Consumer research reveals several distinct segments: (1) fitness enthusiasts aged 18–35 who prioritize protein content and macros; (2) health-conscious professionals aged 30–50 who seek convenient, clean-label snacks; (3) environmentally motivated consumers of all ages who choose plant-based for sustainability reasons; and (4) price-sensitive students who buy whatever is cheapest.\n\nGreenBite has limited funding (€500,000 seed round) and a small team of five people. The founders must decide how to segment the market, which segment(s) to target, and how to position their brand against incumbents who have far larger marketing budgets and established shelf space in supermarkets. They are also developing buyer personas to guide their content marketing strategy. Early taste tests show the product scores well on texture and flavor but lacks the brand recognition and trust that established competitors enjoy.",
+    questions: [
+      {
+        question: "GreenBite's research identifies four consumer groups based on motivations, lifestyle, and price sensitivity. Which segmentation bases are being used?",
+        options: [
+          "A. Geographic and demographic segmentation only",
+          "B. Psychographic and behavioral segmentation primarily, supplemented by demographic variables",
+          "C. Exclusively behavioral segmentation based on purchase frequency",
+          "D. Only demographic segmentation based on age and income"
+        ],
+        correct: 1,
+        explanation: "The segments are defined by lifestyle and values (psychographic), benefits sought and price sensitivity (behavioral), and age (demographic). The primary bases are psychographic and behavioral, with demographic variables used as supplementary descriptors.",
+        source: "CH7 - Segmentation Bases"
+      },
+      {
+        question: "Given GreenBite's limited resources and small team, which targeting strategy is most appropriate?",
+        options: [
+          "A. Undifferentiated (mass) marketing targeting all four segments with one message",
+          "B. Differentiated marketing with separate campaigns for each segment",
+          "C. Concentrated (niche) marketing focusing on one or two segments where GreenBite can build a strong position",
+          "D. Micromarketing with individually customized bars for each consumer"
+        ],
+        correct: 2,
+        explanation: "With only €500,000 and a team of five, GreenBite cannot afford differentiated or mass marketing. Concentrated (niche) marketing allows the startup to focus its limited resources on one or two segments where it can achieve a strong market position through specialized knowledge and targeted messaging.",
+        source: "CH7 - Targeting Strategies"
+      },
+      {
+        question: "GreenBite decides to position itself as 'the sustainable protein bar made by Belgian food scientists with locally sourced ingredients.' Which positioning differentiation source is primary here?",
+        options: [
+          "A. Channel differentiation — selling through unique distribution channels",
+          "B. Price differentiation — being the cheapest option on the shelf",
+          "C. Image and product differentiation — combining sustainability credentials with scientific expertise and local sourcing",
+          "D. People differentiation — hiring friendlier sales staff than competitors"
+        ],
+        correct: 2,
+        explanation: "GreenBite's positioning combines product differentiation (locally sourced, scientifically formulated) with image differentiation (sustainability, Belgian heritage). This creates a distinctive brand identity that separates it from global competitors who cannot claim the same local and scientific credentials.",
+        source: "CH7 - Positioning / Differentiation"
+      },
+      {
+        question: "The marketing team creates 'Eco-Emma,' a 28-year-old Brussels professional who cycles to work, shops at Bio-Planet, and follows zero-waste influencers on Instagram. What is Eco-Emma?",
+        options: [
+          "A. A real customer who was interviewed during the research phase",
+          "B. A competitor's brand ambassador",
+          "C. A semi-fictional buyer persona based on market research and real data about the target segment",
+          "D. A celebrity influencer hired for a paid campaign"
+        ],
+        correct: 2,
+        explanation: "Eco-Emma is a buyer persona — a semi-fictional representation of an ideal customer built from market research and data about existing or potential customers. Buyer personas include demographic details, behaviors, motivations, and goals to help marketers tailor strategies effectively.",
+        source: "CH7 - Buyer Persona"
+      }
+    ],
+    analysis: "GreenBite's situation illustrates the critical importance of STP strategy for resource-constrained startups. By carefully segmenting the market using psychographic and behavioral variables, the founders can identify the segments most aligned with their product's strengths — sustainability and scientific formulation. A concentrated targeting strategy allows GreenBite to punch above its weight by becoming the go-to brand in a specific niche rather than spreading thin across the entire market.\n\nThe positioning strategy leverages multiple differentiation sources (product, image) to create a value proposition that established competitors would find difficult to replicate. The use of buyer personas like Eco-Emma ensures that all marketing communications — from Instagram content to packaging design — speak directly to the target consumer's values and lifestyle.",
+    recommendation: "GreenBite should focus on the environmentally motivated segment and the health-conscious professional segment, as these groups are willing to pay a premium and align with the brand's core strengths. The startup should build its positioning around the 'local + sustainable + science-backed' triad and invest in owned media (Instagram, blog) and earned media (PR with Belgian food journalists, sustainability bloggers) rather than expensive paid advertising. As the brand gains traction and funding, it can expand to additional segments using a differentiated strategy.",
+    sources: ["CH7 - Segmentation", "CH7 - Targeting", "CH7 - Positioning", "CH5 - Buyer Behavior"]
+  },
+  {
+    id: "mkcase_04",
+    title: "LuxWear — Pricing Dilemma for a Premium Smartwatch",
+    subject: "Marketing — Pricing Strategy, Price Elasticity",
+    scenario: "LuxWear is a fashion-technology company based in Antwerp, known for its designer accessories. The company has developed the 'LuxWear Chrono,' a premium smartwatch that combines luxury watch aesthetics with full health-monitoring capabilities (ECG, blood oxygen, sleep tracking). Production cost per unit is €120, and the R&D investment over three years totalled €4.5 million.\n\nThe smartwatch market is dominated by Apple Watch (market leader, €399–€799) and Samsung Galaxy Watch (€279–€449), with luxury alternatives from TAG Heuer Connected (€1,800+) and Montblanc Summit (€1,250+). LuxWear's target market is affluent professionals aged 30–55 who want health technology without sacrificing style. Market research indicates this segment values design, exclusivity, and brand prestige more than raw technical specifications.\n\nLuxWear's CEO faces a critical pricing decision: should the Chrono launch at €899 (market-skimming, positioning between Apple and TAG Heuer) or at €349 (penetration pricing, undercutting Apple to capture volume)? The marketing director argues for skimming, citing the brand's luxury positioning. The CFO argues for penetration, citing the need to recoup R&D costs quickly through volume. Additionally, a board member suggests pricing at €899 but offering a launch promotion of €799 for the first 1,000 units.",
+    questions: [
+      {
+        question: "If LuxWear's target segment values exclusivity and prestige over price, what does this suggest about the price elasticity of demand for the Chrono in this segment?",
+        options: [
+          "A. Demand is highly elastic — small price changes will cause large demand shifts",
+          "B. Demand is relatively inelastic — the target segment is less sensitive to price because they value prestige and design",
+          "C. Demand is perfectly elastic — consumers will only buy at one specific price point",
+          "D. Price elasticity is irrelevant for luxury products"
+        ],
+        correct: 1,
+        explanation: "When consumers value exclusivity, design, and prestige, they are less sensitive to price changes, making demand relatively inelastic. This is a key condition that supports market-skimming pricing — the company can charge a premium because the target segment will not abandon the product over moderate price differences.",
+        source: "CH10 - Price Elasticity"
+      },
+      {
+        question: "Which pricing approach would best align with LuxWear's luxury brand identity?",
+        options: [
+          "A. Market-penetration pricing at €349 to maximize unit volume",
+          "B. Cost-plus pricing at €180 (cost + 50% markup) to ensure a margin on every unit",
+          "C. Market-skimming pricing at €899 to signal premium quality and exclusivity",
+          "D. Predatory pricing below cost to eliminate Apple Watch from the market"
+        ],
+        correct: 2,
+        explanation: "Market-skimming pricing at €899 aligns with the luxury positioning by signaling high quality and exclusivity. A low price (penetration) would undermine the premium brand image and position the Chrono as a budget alternative, which contradicts the brand identity LuxWear has built.",
+        source: "CH10 - Market-Skimming Pricing"
+      },
+      {
+        question: "The board member's suggestion to price at €899 with a €799 launch offer for the first 1,000 units is an example of:",
+        options: [
+          "A. Dynamic pricing based on real-time supply and demand algorithms",
+          "B. Geographical pricing adjusted by country",
+          "C. Promotional pricing — a temporary price reduction to stimulate early adoption and generate buzz",
+          "D. Value-based pricing derived from customer surveys"
+        ],
+        correct: 2,
+        explanation: "Offering a temporary lower price for early adopters is promotional pricing — a short-term price reduction designed to create urgency, reward early buyers, and generate word-of-mouth. The regular price remains €899, preserving the premium positioning while the promotion drives initial sales momentum.",
+        source: "CH11 - Promotional Pricing"
+      },
+      {
+        question: "The marketing director argues that the €899 price 'tells customers this is a luxury product worth investing in.' This reasoning reflects which pricing philosophy?",
+        options: [
+          "A. Cost-based pricing — starting with production costs and adding a markup",
+          "B. Competition-based pricing — matching the market average price",
+          "C. Value-based pricing — setting price based on customer perceptions of value rather than on costs",
+          "D. Break-even pricing — setting price to exactly cover fixed and variable costs"
+        ],
+        correct: 2,
+        explanation: "The marketing director is arguing from a value-based pricing perspective: the price should reflect what customers perceive the product to be worth, not what it costs to produce. In luxury markets, a higher price can actually increase perceived value because consumers use price as a quality signal.",
+        source: "CH10 - Value-Based Pricing"
+      }
+    ],
+    analysis: "LuxWear's pricing dilemma illustrates the tension between financial objectives (recouping R&D investment) and brand strategy (maintaining luxury positioning). The key insight is that for prestige products with inelastic demand, lowering the price does not proportionally increase volume — and may actually decrease demand by eroding the exclusivity signal. The €349 penetration price would position the Chrono as a mid-range alternative, directly competing with Apple Watch on features rather than on design and prestige, which is a battle LuxWear would likely lose.\n\nThe value-based pricing approach recognizes that the target segment's willingness to pay is driven by perceived value (design, brand, exclusivity), not by production costs. The €899 price point occupies a strategic gap between mass-market smartwatches and ultra-luxury options like TAG Heuer, creating a defensible market position.",
+    recommendation: "LuxWear should launch at €899 using market-skimming pricing, consistent with its luxury brand identity. The promotional pricing offer of €799 for the first 1,000 units can generate initial buzz and reviews without permanently undermining the premium price point. As the product matures and competition intensifies, LuxWear can consider introducing a more affordable model (line extension) at a lower price tier rather than discounting the flagship Chrono.",
+    sources: ["CH10 - Pricing Strategies", "CH11 - Price Adjustments", "CH10 - Price Elasticity"]
+  },
+  {
+    id: "mkcase_05",
+    title: "CleanWave — Sustainable Detergent and Greenwashing Accusations",
+    subject: "Marketing — Societal Marketing, Ethics, IMC",
+    scenario: "CleanWave is a mid-sized Belgian cleaning products company that launched an 'eco-friendly' detergent line called 'PureClean' two years ago. The product features biodegradable ingredients, a concentrated formula that uses less water, and packaging made from 30% recycled plastic. PureClean's marketing campaign used slogans like 'Save the Planet, One Wash at a Time' and imagery of pristine forests and oceans. Sales grew 40% year-over-year, and PureClean became CleanWave's fastest-growing product line.\n\nHowever, a Belgian consumer watchdog organization, Test-Achats, recently published an investigation revealing several concerns: (1) the remaining 70% of the packaging is virgin plastic, not recycled; (2) CleanWave's factory uses coal-powered electricity; (3) the 'biodegradable' claim applies only to three of the twelve ingredients; and (4) the company's overall carbon footprint actually increased by 15% during the same period due to expanded production. The investigation accuses CleanWave of greenwashing.\n\nThe story has gone viral on social media, with the hashtag #CleanWaveGreenwash trending on Belgian Twitter. Sales have dropped 20% in the two weeks since the report. CleanWave's CEO must now craft a response strategy using integrated marketing communications to manage the crisis, rebuild trust, and determine whether the company should pivot toward genuine sustainability or double down on its current approach.",
+    questions: [
+      {
+        question: "CleanWave's 'Save the Planet' campaign, given the Test-Achats findings, is an example of:",
+        options: [
+          "A. Greenwashing — making misleading or unsubstantiated claims about the environmental benefits of a product",
+          "B. The societal marketing concept applied correctly",
+          "C. Effective persuasive advertising that builds brand preference",
+          "D. Legitimate green marketing supported by transparent practices"
+        ],
+        correct: 0,
+        explanation: "Greenwashing occurs when a company's environmental marketing claims are misleading or exaggerated relative to its actual practices. CleanWave's claims about 'saving the planet' are disproportionate to the product's actual environmental credentials, especially given the coal-powered factory and increased carbon footprint.",
+        source: "CH1 - Greenwashing"
+      },
+      {
+        question: "A genuine commitment to balancing consumer wants, company profits, and society's long-term welfare describes which marketing philosophy?",
+        options: [
+          "A. The selling concept",
+          "B. The production concept",
+          "C. The societal marketing concept",
+          "D. The product concept"
+        ],
+        correct: 2,
+        explanation: "The societal marketing concept holds that marketing strategy should deliver value to customers in a way that maintains or improves both the consumer's and society's well-being. CleanWave violated this by prioritizing profits (company) over genuine environmental responsibility (society).",
+        source: "CH1 - Societal Marketing Concept"
+      },
+      {
+        question: "To manage this crisis, CleanWave should use an IMC approach. Which combination of communication tools is most appropriate for the immediate crisis response?",
+        options: [
+          "A. Increase TV advertising spending with the same 'Save the Planet' message",
+          "B. Launch a new sales promotion with discounts to boost short-term sales",
+          "C. Public relations (press conference, transparent statement) combined with owned media (company blog, social media) and direct communication (email to loyal customers)",
+          "D. Hire a celebrity influencer to distract from the controversy"
+        ],
+        correct: 2,
+        explanation: "An IMC crisis response requires coordinated use of multiple channels delivering a consistent, transparent message. PR addresses the media and public, owned media allows the company to control its narrative, and direct communication reaches loyal customers personally. All channels must deliver the same honest, accountable message.",
+        source: "CH14 - IMC Strategy"
+      },
+      {
+        question: "In the POEM model, the #CleanWaveGreenwash hashtag trending on social media is an example of:",
+        options: [
+          "A. Paid media — CleanWave is paying for the hashtag to trend",
+          "B. Owned media — CleanWave controls its own social media channels",
+          "C. Earned media — unpaid public conversation and coverage generated by third parties",
+          "D. Shared media — a joint campaign between CleanWave and Test-Achats"
+        ],
+        correct: 2,
+        explanation: "The viral hashtag is earned media — it was not paid for or controlled by CleanWave. Earned media includes word-of-mouth, press coverage, social media mentions, and viral content. In this case, the earned media is negative, demonstrating that earned media can be both an asset and a risk.",
+        source: "CH14 - POEM Model"
+      }
+    ],
+    analysis: "CleanWave's crisis illustrates the dangers of superficial sustainability claims in an era of heightened consumer awareness and investigative journalism. The gap between the company's marketing promises and its actual environmental practices constitutes textbook greenwashing. This case demonstrates why the societal marketing concept requires genuine commitment, not just marketing rhetoric — consumers, watchdog organizations, and social media can quickly expose inconsistencies.\n\nFrom an IMC perspective, the crisis demands a coordinated, transparent response across all communication channels. The POEM model reveals that CleanWave must now deal with negative earned media that it cannot control, making it essential to leverage owned media (transparent statements) and potentially paid media (corrective advertising) to rebuild trust. Silence or deflection would be catastrophic.",
+    recommendation: "CleanWave should immediately issue a transparent public statement acknowledging the shortcomings identified by Test-Achats, accompanied by a concrete, time-bound action plan: transitioning the factory to renewable energy within 18 months, increasing recycled content in packaging to 80% within 12 months, and obtaining third-party environmental certifications (e.g., EU Ecolabel). The CEO should personally lead the PR response to demonstrate accountability. Long-term, CleanWave should embed genuine sustainability into its corporate strategy — not just its marketing — and invite independent audits to verify progress.",
+    sources: ["CH1 - Societal Marketing", "CH1 - Greenwashing", "CH14 - IMC", "CH14 - POEM Model"]
+  },
+  {
+    id: "mkcase_06",
+    title: "PetPal — B2B Pet Food Supplier Expanding to Retail",
+    subject: "Marketing — B2B vs B2C, Channel Strategy",
+    scenario: "PetPal is a Dutch-Belgian pet food manufacturer that has spent 15 years as a B2B supplier, producing private-label dry and wet pet food for major European retailers including Carrefour, Albert Heijn, and Pets Place. PetPal's factory in Ghent produces 50,000 tonnes of pet food annually and serves 35 retail clients across the Benelux region. The company has strong technical capabilities, EU food safety certifications, and deep expertise in pet nutrition formulation.\n\nHowever, PetPal has no direct brand recognition among end consumers — its products sit on shelves under retailers' own labels. The CEO wants to launch 'PetPal Premium,' a branded line of super-premium pet food sold directly to consumers through an e-commerce website and selected specialty pet stores. This B2C move would put PetPal in direct competition with its own retail clients, who currently account for 85% of revenue.\n\nThe management team is divided. The sales director warns that retailers will retaliate by switching to competing private-label suppliers. The marketing director sees a massive opportunity in the growing premium pet food segment (growing 12% annually in Belgium). The logistics manager points out that B2C fulfillment (individual packages to homes) is entirely different from B2B logistics (pallets to distribution centers). The company must decide on its channel strategy, manage potential channel conflict, and determine whether to pursue disintermediation or a hybrid approach.",
+    questions: [
+      {
+        question: "PetPal's current B2B model has fewer but larger buyers (35 retail clients) compared to the thousands of individual consumers in B2C. This difference illustrates which key B2B market characteristic?",
+        options: [
+          "A. Derived demand — B2B demand depends on consumer demand for pet food",
+          "B. Market structure — B2B markets have fewer but larger buyers than B2C markets",
+          "C. Inelastic demand — B2B demand does not change with price",
+          "D. Reciprocal buying — B2B buyers and sellers purchase from each other"
+        ],
+        correct: 1,
+        explanation: "A fundamental difference between B2B and B2C markets is market structure: B2B markets typically have far fewer but much larger buyers. PetPal has 35 retail clients (B2B) versus potentially hundreds of thousands of individual pet owners (B2C). This concentration means losing even one B2B client has a significant revenue impact.",
+        source: "CH6 - B2B vs B2C Differences"
+      },
+      {
+        question: "PetPal's plan to sell directly to consumers through its own e-commerce site, bypassing its retail clients, is an example of:",
+        options: [
+          "A. Vertical integration through merging with a competitor",
+          "B. Disintermediation — cutting out channel intermediaries by selling directly to end consumers",
+          "C. Exclusive distribution — limiting the number of retailers allowed to sell the product",
+          "D. Intensive distribution — placing the product in as many outlets as possible"
+        ],
+        correct: 1,
+        explanation: "Disintermediation occurs when a producer bypasses traditional channel intermediaries (retailers) to sell directly to consumers. PetPal's e-commerce direct-to-consumer model eliminates the retailer from the channel, which creates opportunities (higher margins, direct customer data) but also risks (channel conflict with existing retail partners).",
+        source: "CH12 - Disintermediation"
+      },
+      {
+        question: "The sales director's warning that retailers may retaliate against PetPal for launching a competing branded line describes which channel phenomenon?",
+        options: [
+          "A. Channel cooperation — all members working together for mutual benefit",
+          "B. Horizontal channel conflict — competition between firms at the same channel level",
+          "C. Vertical channel conflict — disagreement between different levels of the same channel (PetPal as manufacturer vs. retailers)",
+          "D. Channel integration — combining multiple channel levels under one management"
+        ],
+        correct: 2,
+        explanation: "Vertical channel conflict occurs between firms at different levels of the same distribution channel. PetPal (manufacturer level) launching a branded product that competes with its own retail clients' private labels creates conflict between the manufacturer and retailer levels. Retailers may retaliate by reducing orders or switching suppliers.",
+        source: "CH12 - Channel Conflict"
+      },
+      {
+        question: "To minimize channel conflict while still entering B2C, PetPal could adopt an omnichannel strategy. Which approach best describes this?",
+        options: [
+          "A. Sell PetPal Premium exclusively through its own website and never through retailers",
+          "B. Abandon the B2C plan entirely and remain a pure B2B supplier",
+          "C. Create an integrated approach where PetPal Premium is available through its own e-commerce site, selected specialty pet stores (not the same retailers it supplies private-label to), and a mobile app — all with unified branding, pricing, and customer experience",
+          "D. Sell PetPal Premium at a lower price than the private-label products it makes for retailers"
+        ],
+        correct: 2,
+        explanation: "An omnichannel strategy integrates multiple channels — e-commerce, specialty retail, mobile — into a seamless customer experience. By choosing specialty pet stores rather than its existing retail clients, PetPal can enter B2C without directly competing on the same shelves as the private-label products it produces, reducing vertical channel conflict.",
+        source: "CH12 - Omnichannel Strategy"
+      }
+    ],
+    analysis: "PetPal's situation highlights the strategic complexity of transitioning from B2B to B2C. The B2B model provides stable, high-volume revenue but limits brand equity and direct consumer relationships. The B2C opportunity offers higher margins, brand ownership, and direct customer data, but risks alienating the retail partners who provide 85% of current revenue.\n\nThe channel conflict dimension is critical: PetPal would essentially be competing with its own customers. This is a common dilemma faced by private-label manufacturers who see the value of building their own brands. The solution lies in careful channel design — differentiating the branded product sufficiently (super-premium positioning, different formulations) from the private-label products, and using distinct distribution channels to minimize direct competition.",
+    recommendation: "PetPal should pursue a phased hybrid approach. First, launch PetPal Premium through its own e-commerce platform and a network of independent specialty pet stores that are not current private-label clients. Position the branded line as super-premium (higher price point, unique formulations, premium packaging) so it occupies a distinct market tier from the standard private-label products. This differentiation reduces the perceived threat to retail partners. Simultaneously, strengthen B2B relationships by offering existing clients exclusive new private-label formulations they cannot get elsewhere, reinforcing PetPal's value as a supplier.",
+    sources: ["CH6 - B2B Markets", "CH12 - Distribution Channels", "CH12 - Channel Conflict", "CH13 - Omnichannel"]
+  },
+  {
+    id: "mkcase_07",
+    title: "FitFusion — Product Life Cycle Extension for a Fitness App",
+    subject: "Marketing — Product Life Cycle, Digital Marketing",
+    scenario: "FitFusion is a fitness app launched in 2019 that offers guided workout videos, meal planning, and progress tracking. The app experienced explosive growth during the COVID-19 pandemic (2020–2021), reaching 2.5 million paid subscribers at its peak. Revenue hit €45 million in 2021. However, as gyms reopened and competitors like Peloton, Nike Training Club (now free), and Apple Fitness+ entered the market, FitFusion's growth stalled. In 2024, subscriber numbers have plateaued at 1.8 million, and monthly churn rate has increased from 4% to 7%. New user acquisition costs have risen from €12 to €28 per user.\n\nThe product shows classic signs of entering the maturity stage of the PLC: sales have stabilized, competition is intense, profit margins are shrinking due to rising acquisition costs and competitive pricing pressure. FitFusion's free version (with limited features) attracts users but only 8% convert to paid subscriptions, down from 15% in 2021.\n\nThe CEO has tasked the marketing team with developing a PLC extension strategy to revitalize growth and a digital marketing plan to reduce acquisition costs and improve retention. The team is considering product modifications (adding AI-powered personal training), market modifications (targeting corporate wellness programs — a B2B pivot), and marketing mix modifications (introducing a lower-priced tier, shifting budget from paid social ads to content marketing and remarketing).",
+    questions: [
+      {
+        question: "FitFusion's plateauing subscriber numbers, intense competition, and shrinking margins are characteristic of which PLC stage?",
+        options: [
+          "A. Introduction stage — the product is still gaining initial traction",
+          "B. Growth stage — sales are rapidly increasing with new competitors entering",
+          "C. Maturity stage — sales peak and stabilize, competition is most intense, profits level off or decline",
+          "D. Decline stage — sales are falling sharply and competitors are exiting"
+        ],
+        correct: 2,
+        explanation: "The maturity stage is characterized by sales stabilization or slight decline, intense competition, and pressure on profit margins. FitFusion's plateauing subscribers, rising churn, increasing acquisition costs, and competitive pressure from multiple rivals are textbook maturity indicators.",
+        source: "CH9 - PLC: Maturity Stage"
+      },
+      {
+        question: "FitFusion's plan to add AI-powered personal training and target corporate wellness programs represents which PLC maturity strategies?",
+        options: [
+          "A. Product modification (adding new features) and market modification (finding new user segments)",
+          "B. Harvesting strategy — reducing investment and extracting remaining profits",
+          "C. Market-penetration pricing — lowering the price to undercut competitors",
+          "D. Divestiture — selling the app to a competitor"
+        ],
+        correct: 0,
+        explanation: "Kotler identifies three maturity-stage strategies: product modification (improving quality, features, or style), market modification (finding new segments or increasing usage), and marketing mix modification (adjusting price, promotion, distribution). AI personal training is product modification; corporate wellness is market modification (new B2B segment).",
+        source: "CH9 - PLC: Maturity Strategies"
+      },
+      {
+        question: "FitFusion's strategy of showing ads to users who visited the app's pricing page but did not subscribe is an example of:",
+        options: [
+          "A. Search engine optimization (SEO) to improve organic rankings",
+          "B. Content marketing through blog posts and videos",
+          "C. Remarketing (retargeting) — serving targeted ads to users who have previously interacted with the brand",
+          "D. Influencer marketing using fitness celebrities"
+        ],
+        correct: 2,
+        explanation: "Remarketing (retargeting) targets users who have already shown interest in a product — in this case, visiting the pricing page — by serving them relevant ads across other websites and platforms. It is highly effective because these users are already familiar with the brand and closer to conversion.",
+        source: "CH17 - Remarketing/Retargeting"
+      },
+      {
+        question: "FitFusion's rising churn rate (4% to 7%) indicates a customer retention problem. Which metric directly captures the long-term financial impact of losing subscribers?",
+        options: [
+          "A. Market share percentage in the fitness app category",
+          "B. Number of app downloads per month",
+          "C. Customer Lifetime Value (CLV) — the total revenue stream from a subscriber over their entire relationship",
+          "D. The cost of developing new app features"
+        ],
+        correct: 2,
+        explanation: "Customer Lifetime Value (CLV) directly measures the financial impact of retention: when churn increases, the average subscriber lifespan shortens, which reduces CLV. If FitFusion's monthly subscription is €15 and average lifespan drops from 25 months (4% churn) to 14 months (7% churn), CLV drops from €375 to €210 per subscriber — a 44% decline in customer value.",
+        source: "CH1 - Customer Lifetime Value"
+      }
+    ],
+    analysis: "FitFusion's trajectory — explosive growth followed by stabilization — is a textbook PLC pattern accelerated by the pandemic's temporary demand spike. The maturity stage demands strategic creativity: the company can no longer rely on organic growth from a booming market. The three maturity strategies (product, market, and marketing mix modification) provide a comprehensive framework for revitalization.\n\nThe digital marketing dimension adds urgency: rising acquisition costs and falling conversion rates indicate that FitFusion's current acquisition channels (likely paid social advertising) are becoming saturated. Shifting to content marketing, SEO, and remarketing can reduce cost-per-acquisition while targeting higher-intent users. The corporate wellness B2B pivot is particularly promising because it diversifies revenue away from the increasingly competitive individual consumer market.",
+    recommendation: "FitFusion should implement a three-pronged PLC extension strategy. First, product modification: launch AI-powered personal training as a premium feature to differentiate from competitors and justify a higher-priced tier. Second, market modification: aggressively pursue corporate wellness programs (B2B), offering bulk licenses and integration with HR platforms. Third, marketing mix modification: shift 40% of the paid social advertising budget to content marketing (YouTube workout videos, SEO-optimized fitness blog) and remarketing campaigns targeting pricing-page visitors and lapsed subscribers. To address churn, implement a retention program with personalized re-engagement emails, milestone rewards, and an annual subscription discount to lock in longer commitments.",
+    sources: ["CH9 - Product Life Cycle", "CH17 - Digital Marketing", "CH1 - CLV and CRM"]
   }
 ];
 
