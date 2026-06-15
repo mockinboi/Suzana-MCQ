@@ -1840,5 +1840,765 @@ window.APP_DATA.revisionSheets.mgmt = [
       "- Empowerment: Give employees authority to make decisions\n" +
       "- Intrinsic Motivation: Meaning, autonomy, mastery, purpose\n" +
       "- Extrinsic Motivation: Pay, bonuses, promotions, recognition"
+  },
+  {
+    id: "rev_mgmt_07",
+    title: "Managerial Skills & Levels",
+    content: "MANAGERIAL SKILLS & LEVELS\n" +
+      "============================\n\n" +
+      "KATZ'S THREE MANAGEMENT SKILLS\n" +
+      "1. TECHNICAL SKILLS\n" +
+      "- Specialized knowledge and proficiency in a specific field\n" +
+      "- Most important for first-line managers who supervise operational tasks\n" +
+      "- Examples: accounting, engineering, programming, machine operation\n\n" +
+      "2. HUMAN SKILLS\n" +
+      "- Ability to work well with other people individually and in groups\n" +
+      "- Equally important at ALL management levels\n" +
+      "- Includes communication, motivation, conflict resolution, empathy\n\n" +
+      "3. CONCEPTUAL SKILLS\n" +
+      "- Ability to think about abstract and complex situations\n" +
+      "- Most important for top-level managers\n" +
+      "- See the organization as a whole, understand interdependencies\n\n" +
+      "THREE MANAGEMENT LEVELS\n" +
+      "- Top Managers: Set organization-wide goals and strategies (CEO, VP)\n" +
+      "- Middle Managers: Translate strategic goals into specific plans; manage first-line managers\n" +
+      "- First-Line Managers: Directly supervise non-managerial employees (supervisors, team leads)\n\n" +
+      "MINTZBERG'S 10 MANAGERIAL ROLES\n" +
+      "Interpersonal: Figurehead | Leader | Liaison\n" +
+      "Informational: Monitor | Disseminator | Spokesperson\n" +
+      "Decisional: Entrepreneur | Disturbance Handler | Resource Allocator | Negotiator\n\n" +
+      "EFFECTIVENESS vs. EFFICIENCY\n" +
+      "- Effectiveness = doing the RIGHT things (achieving goals)\n" +
+      "- Efficiency = doing things RIGHT (minimizing resource use)\n" +
+      "- Good management requires BOTH\n\n" +
+      "COMPETITIVE ADVANTAGE DRIVERS\n" +
+      "- Innovation: New products, services, processes\n" +
+      "- Quality: Excellence in products and services\n" +
+      "- Service: Speed and responsiveness to customers\n" +
+      "- Speed: Fast execution, time-to-market\n" +
+      "- Cost Competitiveness: Keeping costs low\n" +
+      "- Sustainability: Long-term environmental and social responsibility",
+    keyPoints: [
+      "Katz identified 3 skills: technical (first-line), human (all levels), conceptual (top)",
+      "Three management levels: top, middle, first-line",
+      "Mintzberg identified 10 roles in 3 categories: interpersonal, informational, decisional",
+      "Effectiveness = doing the right things; Efficiency = doing things right",
+      "Competitive advantage drivers: innovation, quality, service, speed, cost, sustainability",
+      "Human skills are equally important at every management level",
+      "Conceptual skills become more critical as managers rise in the hierarchy"
+    ],
+    source: "CH 1 - Introduction to Management"
+  },
+  {
+    id: "rev_mgmt_08",
+    title: "Scientific & Administrative Management",
+    content: "SCIENTIFIC & ADMINISTRATIVE MANAGEMENT\n" +
+      "========================================\n\n" +
+      "SCIENTIFIC MANAGEMENT — Frederick Taylor\n" +
+      "- 'One best way' to perform each job through scientific study\n" +
+      "- Time-and-motion studies to optimize worker efficiency\n" +
+      "- Four principles: (1) Science not rule of thumb, (2) Scientific selection & training,\n" +
+      "  (3) Cooperation between management and workers, (4) Equal division of work\n" +
+      "- Workers paid based on output (piece-rate system)\n" +
+      "- Criticism: Treats workers as machines, ignores social needs\n\n" +
+      "ADMINISTRATIVE PRINCIPLES — Henri Fayol\n" +
+      "- 14 Principles of Management:\n" +
+      "  1. Division of Work — specialization increases efficiency\n" +
+      "  2. Authority — right to give orders with responsibility\n" +
+      "  3. Discipline — obedience, respect, proper conduct\n" +
+      "  4. Unity of Command — one employee, one superior\n" +
+      "  5. Unity of Direction — one plan, one head per group of activities\n" +
+      "  6. Subordination of Individual Interest — organizational goals first\n" +
+      "  7. Remuneration — fair pay for services\n" +
+      "  8. Centralization — optimal degree of concentration of authority\n" +
+      "  9. Scalar Chain — clear line of authority from top to bottom\n" +
+      "  10. Order — everything/everyone in their place\n" +
+      "  11. Equity — fairness and kindness to employees\n" +
+      "  12. Stability of Tenure — minimize turnover\n" +
+      "  13. Initiative — encourage employees to originate plans\n" +
+      "  14. Esprit de Corps — promote team spirit and unity\n\n" +
+      "BUREAUCRACY — Max Weber\n" +
+      "- Rational-legal authority (not charismatic or traditional)\n" +
+      "- Clear hierarchy, formal rules, impersonal relationships\n" +
+      "- Division of labor based on specialization\n" +
+      "- Career advancement based on merit and technical competence\n\n" +
+      "HAWTHORNE STUDIES — Elton Mayo\n" +
+      "- Social factors and group dynamics significantly affect productivity\n" +
+      "- Hawthorne Effect: Performance improves when workers feel observed/valued\n" +
+      "- Informal organization matters as much as formal structure\n\n" +
+      "CONTINGENCY THEORY\n" +
+      "- No single best approach to management\n" +
+      "- The right approach depends on the situation (environment, task, people)\n\n" +
+      "SYSTEMS THEORY\n" +
+      "- Organization as an open system of interconnected subsystems\n" +
+      "- Inputs → Transformation → Outputs → Feedback\n" +
+      "- Interacts with and depends on external environment",
+    keyPoints: [
+      "Taylor: Scientific management — one best way, time-and-motion, piece-rate pay",
+      "Fayol: 14 administrative principles including unity of command, scalar chain, esprit de corps",
+      "Weber: Bureaucracy — rational-legal authority, hierarchy, formal rules, merit-based careers",
+      "Hawthorne Studies: Social norms and attention (Hawthorne effect) impact productivity",
+      "Contingency theory: No one best way — situation determines the right approach",
+      "Systems theory: Organization as an open, interconnected system with feedback loops",
+      "Classical approaches focused on efficiency; human relations focused on social/psychological needs"
+    ],
+    source: "App A - Evolution of Management Thought"
+  },
+  {
+    id: "rev_mgmt_09",
+    title: "Organizational Environment",
+    content: "ORGANIZATIONAL ENVIRONMENT\n" +
+      "============================\n\n" +
+      "GENERAL (MACRO) ENVIRONMENT — PESTEL\n" +
+      "- Political: Government policies, stability, regulations, trade restrictions\n" +
+      "- Economic: GDP, inflation, interest rates, unemployment, exchange rates\n" +
+      "- Sociocultural: Demographics, values, lifestyles, attitudes, education\n" +
+      "- Technological: Innovation, R&D, automation, digital transformation\n" +
+      "- Environmental: Climate change, sustainability concerns, resource availability\n" +
+      "- Legal: Employment law, consumer protection, health & safety, intellectual property\n\n" +
+      "TASK (SPECIFIC/MICRO) ENVIRONMENT\n" +
+      "- Competitors: Firms offering similar products/services\n" +
+      "- Customers: Buyers and end users\n" +
+      "- Suppliers: Providers of inputs (materials, labor, capital)\n" +
+      "- Regulators: Government agencies and industry bodies\n" +
+      "- Directly relevant to achieving organizational goals\n\n" +
+      "ORGANIZATIONAL CULTURE\n" +
+      "- Shared values, beliefs, and norms that influence behavior\n" +
+      "- Visible artifacts: Dress code, office layout, rituals, stories, symbols\n" +
+      "- Espoused values: Stated principles and standards\n" +
+      "- Basic underlying assumptions: Deeply held, often unconscious beliefs\n\n" +
+      "CULTURE AS LIABILITY (Clayton, 2019)\n" +
+      "- Barrier to change: Resists needed organizational transformation\n" +
+      "- Barrier to diversity: Creates homogeneity, excludes different perspectives\n" +
+      "- Barrier to mergers & acquisitions: Cultural clashes derail integration\n\n" +
+      "INTERNAL ENVIRONMENT\n" +
+      "- Tangible resources: Financial, physical, technological assets\n" +
+      "- Intangible resources: Brand, reputation, intellectual property, knowledge\n" +
+      "- Capabilities: Skills and abilities to use resources effectively\n" +
+      "- Core Competencies: Unique capabilities that provide competitive advantage\n\n" +
+      "ENVIRONMENTAL COMPLEXITY & DYNAMISM\n" +
+      "- Simple vs. complex environments (number of factors)\n" +
+      "- Stable vs. dynamic environments (rate of change)\n" +
+      "- Most challenging: complex + dynamic environments",
+    keyPoints: [
+      "PESTEL analyzes the general/macro environment: Political, Economic, Sociocultural, Technological, Environmental, Legal",
+      "Task environment includes competitors, customers, suppliers, and regulators",
+      "Culture has 3 levels: artifacts (visible), espoused values, basic assumptions (deepest)",
+      "Clayton 2019: Culture becomes a liability when it blocks change, diversity, or M&A",
+      "Internal environment: tangible resources, intangible resources, capabilities, core competencies",
+      "Environmental uncertainty increases with complexity and dynamism"
+    ],
+    source: "CH 2 - The External and Internal Environments"
+  },
+  {
+    id: "rev_mgmt_10",
+    title: "Managerial Decision Making",
+    content: "MANAGERIAL DECISION MAKING\n" +
+      "============================\n\n" +
+      "TYPES OF DECISIONS\n" +
+      "- Programmed: Routine, repetitive, structured — use rules, SOPs, policies\n" +
+      "- Non-Programmed: Unique, novel, unstructured — require judgment, creativity\n\n" +
+      "DECISION-MAKING CONDITIONS\n" +
+      "- Certainty: All alternatives and outcomes are known (ideal, rare)\n" +
+      "- Risk: Probabilities of outcomes can be estimated\n" +
+      "- Uncertainty: Outcomes are unknown, probabilities cannot be estimated\n\n" +
+      "RATIONAL DECISION-MAKING MODEL\n" +
+      "1. Define the problem\n" +
+      "2. Identify decision criteria\n" +
+      "3. Allocate weights to criteria\n" +
+      "4. Develop alternatives\n" +
+      "5. Evaluate alternatives\n" +
+      "6. Select the best alternative\n" +
+      "- Assumes: complete information, clear preferences, no time/cost constraints\n\n" +
+      "BOUNDED RATIONALITY (Simon)\n" +
+      "- Managers have limited information and cognitive capacity\n" +
+      "- Cannot process all alternatives or information\n" +
+      "- Results in SATISFICING: choosing the first 'good enough' alternative\n\n" +
+      "PSYCHOLOGICAL BIASES\n" +
+      "- Illusion of Control: Overestimating ability to predict/control outcomes\n" +
+      "- Framing Effects: Presentation of a problem influences the decision\n" +
+      "- Discounting the Future: Preferring immediate over future outcomes\n\n" +
+      "GROUP DECISION-MAKING PITFALLS\n" +
+      "- Groupthink: Consensus over critical evaluation; suppresses dissent\n" +
+      "- Goal Displacement: Means become ends in themselves\n" +
+      "- Social Loafing: Reduced individual effort in group settings\n\n" +
+      "TYPES OF CONFLICT IN GROUPS\n" +
+      "- Cognitive (Task) Conflict: Disagreements about ideas — CONSTRUCTIVE\n" +
+      "- Affective (Relationship) Conflict: Personal, emotional — DESTRUCTIVE\n\n" +
+      "TECHNIQUES TO IMPROVE GROUP DECISIONS\n" +
+      "- Devil's Advocate: Assigned critic challenges proposals\n" +
+      "- Dialectic Method: Thesis vs. antithesis → synthesis\n" +
+      "- Delphi Technique: Anonymous, iterative expert questionnaires\n" +
+      "- Brainstorming: Generate ideas without criticism; quantity over quality first",
+    keyPoints: [
+      "Programmed decisions handle routine problems; non-programmed handle unique, complex problems",
+      "Three conditions: certainty (known outcomes), risk (estimated probabilities), uncertainty (unknown)",
+      "Rational model assumes perfect info; bounded rationality recognizes cognitive limits → satisficing",
+      "Key biases: illusion of control, framing effects, discounting the future",
+      "Groupthink sacrifices critical thinking for consensus — avoid with devil's advocate or dialectic",
+      "Cognitive conflict (task-focused) is constructive; affective conflict (personal) is destructive",
+      "Delphi technique uses anonymous rounds to avoid groupthink; brainstorming separates idea generation from evaluation"
+    ],
+    source: "CH 3 - Managerial Decision Making"
+  },
+  {
+    id: "rev_mgmt_11",
+    title: "Planning & Strategic Management",
+    content: "PLANNING & STRATEGIC MANAGEMENT\n" +
+      "==================================\n\n" +
+      "PLANNING vs. STRATEGY\n" +
+      "- Planning: Setting goals and determining how to achieve them\n" +
+      "- Strategy: Pattern of actions and resource allocation to achieve long-term goals\n" +
+      "- Planning is a function; strategy is the overarching direction\n\n" +
+      "LEVELS OF PLANNING\n" +
+      "- Strategic Plans: Long-term, organization-wide, set by top managers\n" +
+      "- Tactical Plans: Medium-term, departmental, set by middle managers\n" +
+      "- Operational Plans: Short-term, day-to-day, set by first-line managers\n\n" +
+      "MANAGEMENT BY OBJECTIVES (MBO)\n" +
+      "- Managers and employees jointly set specific, measurable goals\n" +
+      "- Periodic review of progress toward goals\n" +
+      "- Participative process increases commitment\n" +
+      "- Limitations: Time-consuming, overemphasis on measurable goals\n\n" +
+      "VRIO FRAMEWORK\n" +
+      "- Valuable: Does it exploit opportunities or neutralize threats?\n" +
+      "- Rare: Do few competitors possess it?\n" +
+      "- Inimitable: Is it costly to imitate?\n" +
+      "- Organized: Is the firm organized to capture value?\n" +
+      "- All four = Sustained Competitive Advantage\n" +
+      "- V only = Competitive Parity | V+R = Temporary Advantage\n\n" +
+      "VALUE CHAIN (Porter)\n" +
+      "- Primary Activities: Inbound logistics, Operations, Outbound logistics,\n" +
+      "  Marketing & Sales, Service\n" +
+      "- Support Activities: Firm infrastructure, HR management,\n" +
+      "  Technology development, Procurement\n" +
+      "- Each activity adds value; total = competitive margin\n\n" +
+      "STAKEHOLDER ANALYSIS\n" +
+      "- Identify all parties affected by or affecting the organization\n" +
+      "- Assess their interests, influence, and importance\n" +
+      "- Prioritize: High power + high interest = key players\n\n" +
+      "BENCHMARKING\n" +
+      "- Compare practices and performance against industry best or world-class\n" +
+      "- Types: internal, competitive, functional, generic\n" +
+      "- Goal: Identify gaps and adopt best practices",
+    keyPoints: [
+      "Three planning levels: strategic (top), tactical (middle), operational (first-line)",
+      "MBO: Participative goal-setting between managers and employees with periodic review",
+      "VRIO: Valuable + Rare + Inimitable + Organized = sustained competitive advantage",
+      "Value chain: 5 primary activities + 4 support activities create margin",
+      "Stakeholder analysis: Identify, assess interests/influence, prioritize key players",
+      "Benchmarking compares practices against best-in-class to identify improvement gaps"
+    ],
+    source: "CH 4 - Planning and Strategic Management"
+  },
+  {
+    id: "rev_mgmt_12",
+    title: "SMART vs SMART2 Goals",
+    content: "SMART vs SMART2 GOALS\n" +
+      "========================\n\n" +
+      "SMART GOALS (Mainstream Approach)\n" +
+      "- S = Specific: Clear, well-defined, unambiguous\n" +
+      "- M = Measurable: Quantifiable criteria to track progress\n" +
+      "- A = Attainable/Achievable: Realistic yet challenging\n" +
+      "- R = Results-based: Focus on outcomes, not just activities\n" +
+      "- T = Time-bound: Clear deadline or timeframe\n\n" +
+      "SMART2 GOALS (Multistream Approach)\n" +
+      "- S = Significant: Meaningful and important to stakeholders\n" +
+      "- M = Meaningful: Connected to purpose and values\n" +
+      "- A = Agreed upon: Developed collaboratively\n" +
+      "- R = Relevant: Aligned with broader organizational mission\n" +
+      "- T = Timely: Appropriate timing, not just deadlines\n" +
+      "- Emphasizes participation, meaning, and stakeholder engagement\n\n" +
+      "MAINSTREAM vs. MULTISTREAM APPROACHES\n" +
+      "- Mainstream: Focus on financial performance, efficiency, competitiveness\n" +
+      "- Multistream: Broader focus on social, ecological, and spiritual well-being\n" +
+      "- Mainstream uses SMART; Multistream uses SMART2\n\n" +
+      "STRETCH GOALS\n" +
+      "- Extremely ambitious targets beyond current capabilities\n" +
+      "- Push employees to innovate and find new solutions\n" +
+      "- Risk: Can demotivate if perceived as impossible\n" +
+      "- Best used when team has recent success and adequate resources\n\n" +
+      "GOAL DISPLACEMENT\n" +
+      "- When means (rules, procedures) become ends in themselves\n" +
+      "- Organization loses sight of original purpose\n" +
+      "- Example: Following the process perfectly but missing the actual goal\n\n" +
+      "PERFORMANCE STANDARDS\n" +
+      "- Expected level of performance against which actual performance is compared\n" +
+      "- Must be clear, measurable, and communicated\n" +
+      "- Tied to the controlling function of management\n\n" +
+      "OPERATIONAL PLANS\n" +
+      "- Standing plans: Ongoing policies, rules, and procedures\n" +
+      "- Single-use plans: One-time budgets and programs\n" +
+      "- Developed by first-line managers for short-term execution",
+    keyPoints: [
+      "SMART: Specific, Measurable, Attainable, Results-based, Time-bound (mainstream)",
+      "SMART2: Significant, Meaningful, Agreed upon, Relevant, Timely (multistream)",
+      "Mainstream focuses on financial performance; multistream on broader well-being",
+      "Stretch goals are highly ambitious — motivate innovation but risk demotivation",
+      "Goal displacement: Means become ends; organization loses sight of purpose",
+      "Operational plans include standing plans (ongoing) and single-use plans (one-time)"
+    ],
+    source: "CH 4 - Planning and Strategic Management"
+  },
+  {
+    id: "rev_mgmt_13",
+    title: "Ethics, CSR & Sustainability",
+    content: "ETHICS, CSR & SUSTAINABILITY\n" +
+      "==============================\n\n" +
+      "ETHICAL SYSTEMS\n" +
+      "1. Relativism: No universal standards; context/culture determines right and wrong\n" +
+      "2. Utilitarianism: Greatest good for greatest number; consequentialist\n" +
+      "3. Egoism: Act in one's own self-interest; maximize personal benefit\n" +
+      "4. Virtue Ethics: Focus on character and integrity of the decision maker\n" +
+      "5. Universalism (Deontology): Universal moral rules apply regardless of consequences\n" +
+      "   - Kant's categorical imperative: Act as you would want everyone to act\n\n" +
+      "SEVEN WARNING SIGNS OF ETHICAL TROUBLE\n" +
+      "1. 'Everybody does it'\n" +
+      "2. 'It doesn't really hurt anyone'\n" +
+      "3. 'That's the way it's always been done'\n" +
+      "4. 'We'll wait until the lawyers tell us it's wrong'\n" +
+      "5. 'It's not our department/problem'\n" +
+      "6. 'We can always fix it later'\n" +
+      "7. 'No one will ever know'\n\n" +
+      "TRIPLE BOTTOM LINE (3Ps)\n" +
+      "- People: Social responsibility, fair labor, community impact\n" +
+      "- Planet: Environmental stewardship, carbon footprint, resources\n" +
+      "- Profit: Financial sustainability and economic performance\n\n" +
+      "BRUNDTLAND DEFINITION (1987)\n" +
+      "- Sustainable development = meeting present needs without\n" +
+      "  compromising future generations' ability to meet their needs\n" +
+      "- Foundation for modern sustainability frameworks\n\n" +
+      "DOUBLE MATERIALITY\n" +
+      "- Outside-in: How sustainability issues affect the company (financial materiality)\n" +
+      "- Inside-out: How the company affects society and environment (impact materiality)\n" +
+      "- Both perspectives must be considered for full sustainability reporting\n\n" +
+      "UPSTREAM vs. DOWNSTREAM\n" +
+      "- Upstream: Supply chain impacts (raw materials, suppliers, sourcing)\n" +
+      "- Downstream: Product use, disposal, customer impact\n" +
+      "- Full lifecycle thinking required for true sustainability\n\n" +
+      "ETHICS vs. SUSTAINABILITY\n" +
+      "- Ethics: What is right/wrong in individual and organizational behavior\n" +
+      "- Sustainability: Long-term balance of economic, social, environmental goals\n" +
+      "- Overlap: Both require consideration of stakeholders beyond shareholders",
+    keyPoints: [
+      "Five ethical systems: relativism, utilitarianism, egoism, virtue ethics, universalism",
+      "Seven warning signs signal potential ethical violations (e.g., 'everybody does it')",
+      "Triple bottom line: People, Planet, Profit — measures social, environmental, financial performance",
+      "Brundtland (1987): Meet present needs without compromising future generations",
+      "Double materiality: Outside-in (financial) + inside-out (impact) perspectives",
+      "Upstream = supply chain; downstream = product use/disposal — lifecycle thinking",
+      "Ethics concerns right/wrong; sustainability concerns long-term balance of 3Ps"
+    ],
+    source: "CH 5 - Ethics, Corporate Social Responsibility, and Sustainability"
+  },
+  {
+    id: "rev_mgmt_14",
+    title: "International Management",
+    content: "INTERNATIONAL MANAGEMENT\n" +
+      "==========================\n\n" +
+      "HOFSTEDE'S DIMENSIONS IN CONTEXT\n" +
+      "- Power Distance: Acceptance of unequal power distribution\n" +
+      "  → High PD: Centralized decisions, autocratic leadership\n" +
+      "  → Low PD: Participative management, flat structures\n" +
+      "- Individualism vs. Collectivism: 'I' vs. 'We' identity\n" +
+      "  → Individualist: Personal goals, individual rewards\n" +
+      "  → Collectivist: Group harmony, team-based incentives\n" +
+      "- Masculinity vs. Femininity: Competition vs. cooperation\n" +
+      "- Uncertainty Avoidance: Tolerance for ambiguity\n" +
+      "  → High UA: Formal rules, structured processes\n" +
+      "  → Low UA: Flexibility, risk-taking, innovation\n" +
+      "- Long-term vs. Short-term Orientation: Future vs. tradition\n" +
+      "- Indulgence vs. Restraint: Freedom of gratification\n\n" +
+      "MANAGEMENT ORIENTATIONS\n" +
+      "1. ETHNOCENTRISM\n" +
+      "   - Home-country practices are superior\n" +
+      "   - Key positions filled by home-country nationals\n" +
+      "   - Standardized approach across all countries\n" +
+      "   - Risk: Ignores local market needs and cultural differences\n\n" +
+      "2. POLYCENTRISM\n" +
+      "   - Each host country is unique; local managers know best\n" +
+      "   - Subsidiaries managed by local nationals\n" +
+      "   - Adapted approach for each country\n" +
+      "   - Risk: Lack of coordination and consistency\n\n" +
+      "3. GEOCENTRISM\n" +
+      "   - World-oriented view; best people and practices regardless of origin\n" +
+      "   - Global integration with local responsiveness\n" +
+      "   - Most complex and expensive but most effective for MNCs\n\n" +
+      "GLOBALIZATION vs. DEGLOBALIZATION\n" +
+      "- Globalization: Increasing interconnectedness of economies and cultures\n" +
+      "  → Free trade, offshoring, global supply chains, cultural exchange\n" +
+      "- Deglobalization: Trend toward protectionism, reshoring, regionalization\n" +
+      "  → Trade wars, pandemic supply disruptions, nationalism, sustainability concerns\n" +
+      "- Managers must navigate both forces simultaneously\n\n" +
+      "IMPLICATIONS FOR MANAGEMENT\n" +
+      "- Leadership style must adapt to cultural context\n" +
+      "- Motivation strategies differ across cultures\n" +
+      "- Communication styles vary (high-context vs. low-context)\n" +
+      "- Ethical standards may conflict across jurisdictions",
+    keyPoints: [
+      "Hofstede's dimensions shape management practices: leadership, motivation, communication, structure",
+      "Ethnocentrism: Home-country superiority — risk of ignoring local needs",
+      "Polycentrism: Local-country expertise — risk of inconsistency across subsidiaries",
+      "Geocentrism: Best global practices regardless of origin — most effective for MNCs",
+      "Globalization vs. deglobalization creates tension managers must navigate",
+      "Cultural dimensions affect leadership style, motivation, and ethical expectations"
+    ],
+    source: "CH 6 - International Management"
+  },
+  {
+    id: "rev_mgmt_15",
+    title: "Organizational Structure",
+    content: "ORGANIZATIONAL STRUCTURE\n" +
+      "==========================\n\n" +
+      "SPAN OF CONTROL\n" +
+      "- Number of subordinates a manager directly supervises\n" +
+      "- Wide span: Many subordinates → flatter organization, more autonomy\n" +
+      "- Narrow span: Few subordinates → taller organization, more oversight\n" +
+      "- Factors: task complexity, employee experience, task standardization\n\n" +
+      "CENTRALIZATION vs. DECENTRALIZATION\n" +
+      "- Centralization: Decision-making concentrated at top levels\n" +
+      "  → Consistent policies, clear accountability, slower response\n" +
+      "- Decentralization: Decision-making pushed to lower levels\n" +
+      "  → Faster decisions, employee empowerment, potential inconsistency\n" +
+      "- Most organizations use a blend depending on decision type\n\n" +
+      "FUNCTIONAL STRUCTURE\n" +
+      "- Groups employees by function (marketing, finance, HR, operations)\n" +
+      "- Advantages: Specialization, efficiency, clear career paths\n" +
+      "- Disadvantages: Silos, poor cross-functional communication\n\n" +
+      "DIVISIONAL STRUCTURE\n" +
+      "- Groups employees by product, geography, or customer\n" +
+      "- Each division has its own functional resources\n" +
+      "- Advantages: Flexibility, market focus, accountability\n" +
+      "- Disadvantages: Duplication of resources, potential lack of coordination\n\n" +
+      "MATRIX STRUCTURE\n" +
+      "- Overlays functional and divisional structures\n" +
+      "- Employees report to TWO managers (functional + project/product)\n" +
+      "- Advantages: Flexibility, expertise sharing, efficient resource use\n" +
+      "- Disadvantages: Dual authority → confusion, conflict, complexity\n" +
+      "- Violates Fayol's unity of command principle\n\n" +
+      "HIERARCHY & CHAIN OF COMMAND\n" +
+      "- Authority flows from top to bottom through the scalar chain\n" +
+      "- Each employee has one direct superior (unity of command)\n" +
+      "- Tall structures: Many levels, narrow spans, more control\n" +
+      "- Flat structures: Few levels, wide spans, more employee autonomy\n\n" +
+      "FORMALIZATION\n" +
+      "- Degree to which jobs are standardized with rules and procedures\n" +
+      "- High formalization: Clear rules, little discretion (bureaucratic)\n" +
+      "- Low formalization: Flexible, employee discretion (organic)\n" +
+      "- Mechanistic vs. organic structures (Burns & Stalker)\n" +
+      "  → Mechanistic: High formalization, centralization, narrow spans\n" +
+      "  → Organic: Low formalization, decentralization, wide spans",
+    keyPoints: [
+      "Span of control: Wide = flat organization; narrow = tall organization",
+      "Centralization concentrates decisions at top; decentralization pushes them down",
+      "Functional structure groups by specialty; divisional by product/geography/customer",
+      "Matrix overlays functional + divisional — dual reporting, violates unity of command",
+      "Formalization = degree of standardization; high = mechanistic, low = organic",
+      "Tall vs. flat structures trade control for autonomy and speed"
+    ],
+    source: "CH 8 - Organizational Structure"
+  },
+  {
+    id: "rev_mgmt_16",
+    title: "Power & Leadership Styles",
+    content: "POWER & LEADERSHIP STYLES\n" +
+      "============================\n\n" +
+      "FRENCH & RAVEN'S 5 POWER BASES\n" +
+      "1. Legitimate Power: Authority from formal position in the hierarchy\n" +
+      "2. Reward Power: Ability to give positive outcomes (raises, promotions, praise)\n" +
+      "3. Coercive Power: Ability to punish or withhold (based on fear)\n" +
+      "4. Expert Power: Derived from specialized knowledge or skills\n" +
+      "5. Referent Power: Based on admiration, respect, identification with the leader\n" +
+      "- Position power: Legitimate, reward, coercive\n" +
+      "- Personal power: Expert, referent (more durable and influential)\n\n" +
+      "BLAKE & MOUTON MANAGERIAL GRID\n" +
+      "- Two axes: Concern for People (1-9) × Concern for Production (1-9)\n" +
+      "- (1,1) Impoverished: Minimal effort on both dimensions\n" +
+      "- (1,9) Country Club: High people, low production\n" +
+      "- (9,1) Authority-Compliance: High production, low people\n" +
+      "- (5,5) Middle-of-the-Road: Moderate on both\n" +
+      "- (9,9) Team Management: High on both — considered ideal\n\n" +
+      "HERSEY-BLANCHARD SITUATIONAL LEADERSHIP\n" +
+      "- Match leadership style to follower readiness (competence + commitment)\n" +
+      "- S1 Directing/Telling: Low competence + low commitment → high task, low relationship\n" +
+      "- S2 Coaching/Selling: Low competence + high commitment → high task, high relationship\n" +
+      "- S3 Supporting/Participating: High competence + low commitment → low task, high relationship\n" +
+      "- S4 Delegating: High competence + high commitment → low task, low relationship\n\n" +
+      "PATH-GOAL THEORY (House)\n" +
+      "- Leader removes obstacles and clarifies the path to goals\n" +
+      "- Directive: Clear expectations, task clarity\n" +
+      "- Supportive: Friendly, approachable, concern for well-being\n" +
+      "- Participative: Consult with and involve subordinates\n" +
+      "- Achievement-Oriented: Set challenging goals, expect excellence\n" +
+      "- Style depends on follower characteristics and task/environment factors\n\n" +
+      "CHARISMATIC LEADERSHIP\n" +
+      "- Extraordinary influence through vision, confidence, and personal appeal\n" +
+      "- Followers attribute heroic qualities to the leader\n" +
+      "- Risk: Dependence on the leader, potential for narcissism\n\n" +
+      "TRANSFORMATIONAL vs. TRANSACTIONAL\n" +
+      "- Transformational: Inspires change beyond self-interest\n" +
+      "  → Idealized influence, inspirational motivation,\n" +
+      "    intellectual stimulation, individualized consideration (4 I's)\n" +
+      "- Transactional: Exchange-based — rewards for performance\n" +
+      "  → Contingent reward, management by exception (active/passive)\n\n" +
+      "OTHER LEADERSHIP STYLES\n" +
+      "- Servant: Leader serves followers' needs first; focus on growth and well-being\n" +
+      "- Shared: Leadership distributed among team members; collective responsibility\n" +
+      "- Autocratic: Leader decides alone; centralized control\n" +
+      "- Laissez-faire: Minimal intervention; hands-off approach\n" +
+      "- Ethical Leadership: Modeling ethical conduct, promoting integrity, holding accountable",
+    keyPoints: [
+      "French & Raven: 5 bases — legitimate, reward, coercive (position) + expert, referent (personal)",
+      "Blake & Mouton: (9,9) Team Management is ideal — high concern for people AND production",
+      "Hersey-Blanchard: Match style (S1-S4) to follower readiness (competence + commitment)",
+      "Path-Goal: Leader clarifies path and removes obstacles; 4 styles depending on situation",
+      "Transformational: 4 I's — idealized influence, inspirational motivation, intellectual stimulation, individualized consideration",
+      "Transactional: Exchange rewards for performance; management by exception",
+      "Servant leadership serves followers first; shared leadership distributes authority"
+    ],
+    source: "CH 12 - Leadership"
+  },
+  {
+    id: "rev_mgmt_17",
+    title: "Motivation Theories in Depth",
+    content: "MOTIVATION THEORIES IN DEPTH\n" +
+      "==============================\n\n" +
+      "MASLOW'S HIERARCHY OF NEEDS\n" +
+      "5. Self-Actualization: Reaching full potential, personal growth\n" +
+      "4. Esteem: Recognition, status, achievement, self-respect\n" +
+      "3. Social/Belonging: Friendship, love, group membership\n" +
+      "2. Safety: Security, stability, protection from harm\n" +
+      "1. Physiological: Food, water, shelter, sleep (most basic)\n" +
+      "- Lower needs must be largely satisfied before higher needs motivate\n" +
+      "- Criticism: Rigid hierarchy not universally observed\n\n" +
+      "HERZBERG'S TWO-FACTOR THEORY\n" +
+      "- Hygiene Factors (extrinsic — prevent dissatisfaction):\n" +
+      "  Salary, working conditions, company policy, supervision, relationships, security\n" +
+      "- Motivators (intrinsic — create satisfaction):\n" +
+      "  Achievement, recognition, meaningful work, responsibility, advancement, growth\n" +
+      "- Key insight: Eliminating dissatisfaction ≠ creating motivation\n\n" +
+      "MCCLELLAND'S THREE NEEDS\n" +
+      "- Need for Achievement (nAch): Drive to excel, meet standards, master complex tasks\n" +
+      "  → Best performers prefer moderate risk and feedback\n" +
+      "- Need for Affiliation (nAff): Desire for close relationships, belonging, approval\n" +
+      "- Need for Power (nPow): Desire to influence, control, have impact\n" +
+      "  → Socialized power (for others) vs. personalized power (for self)\n\n" +
+      "ALDERFER'S ERG THEORY\n" +
+      "- Existence: Basic material needs (physiological + safety)\n" +
+      "- Relatedness: Social interaction and relationships (social + external esteem)\n" +
+      "- Growth: Personal development and self-actualization\n" +
+      "- Frustration-regression: If higher need is blocked, lower needs intensify\n" +
+      "- Multiple needs can operate simultaneously (unlike Maslow's rigid hierarchy)\n\n" +
+      "EXPECTANCY THEORY (Vroom)\n" +
+      "- Motivation = Expectancy × Instrumentality × Valence\n" +
+      "- Expectancy: Belief that effort leads to performance (Can I do it?)\n" +
+      "- Instrumentality: Belief that performance leads to reward (Will I be rewarded?)\n" +
+      "- Valence: Value placed on the reward (Do I want it?)\n" +
+      "- If any factor is zero, motivation is zero\n\n" +
+      "EQUITY THEORY (Adams)\n" +
+      "- Compare own input/outcome ratio to referent others\n" +
+      "- Perceived inequity → tension → drive to restore balance\n" +
+      "- Responses: Change inputs, change outcomes, distort perceptions, change referent, leave\n\n" +
+      "GOAL-SETTING THEORY (Locke & Latham)\n" +
+      "- Specific + challenging goals → highest performance\n" +
+      "- Moderators: Goal commitment, self-efficacy, feedback, task complexity\n" +
+      "- Participation in goal setting increases commitment\n\n" +
+      "INTRINSIC vs. EXTRINSIC MOTIVATION\n" +
+      "- Intrinsic: Driven by the work itself — meaning, autonomy, mastery, purpose\n" +
+      "- Extrinsic: Driven by external factors — pay, bonuses, promotions, penalties\n\n" +
+      "THEORY X vs. THEORY Y (McGregor)\n" +
+      "- Theory X: Workers dislike work, avoid responsibility, need control and coercion\n" +
+      "- Theory Y: Workers are self-directed, seek responsibility, enjoy meaningful work\n" +
+      "- Self-fulfilling prophecy: Manager's assumptions shape employee behavior\n\n" +
+      "PRACTICAL APPLICATIONS\n" +
+      "- Empowerment: Giving employees authority and resources to make decisions\n" +
+      "- Job Enrichment: Adding depth — autonomy, responsibility, decision-making power\n" +
+      "- Job Enlargement: Adding breadth — more tasks at the same skill level",
+    keyPoints: [
+      "Maslow: 5-level hierarchy from physiological to self-actualization; lower needs first",
+      "Herzberg: Hygiene factors prevent dissatisfaction; motivators create satisfaction (different continua)",
+      "McClelland: Achievement, affiliation, power — best leaders often have high socialized power",
+      "ERG (Alderfer): Existence, Relatedness, Growth — allows frustration-regression and simultaneous needs",
+      "Expectancy = E × I × V — if any factor is zero, motivation is zero",
+      "Equity theory: People compare their input/outcome ratio to others; inequity drives action",
+      "Goal-setting: Specific + challenging goals with feedback produce highest performance",
+      "Theory X assumes workers avoid work; Theory Y assumes workers seek responsibility"
+    ],
+    source: "CH 13 - Motivation"
+  },
+  {
+    id: "rev_mgmt_18",
+    title: "Managerial Control",
+    content: "MANAGERIAL CONTROL\n" +
+      "=====================\n\n" +
+      "THE CONTROL PROCESS\n" +
+      "1. Establish performance standards (based on goals and plans)\n" +
+      "2. Measure actual performance (collect data and information)\n" +
+      "3. Compare actual performance against standards (identify deviations)\n" +
+      "4. Take corrective action (if needed — adjust performance or revise standards)\n\n" +
+      "THREE TYPES OF CONTROL BY TIMING\n" +
+      "1. FEEDFORWARD CONTROL (Preventive / Before)\n" +
+      "   - Anticipates problems BEFORE they occur\n" +
+      "   - Focus: Inputs (resources, materials, people, procedures)\n" +
+      "   - Examples: Training programs, quality raw materials, planning, budgeting\n" +
+      "   - Most desirable but requires timely, accurate information\n\n" +
+      "2. CONCURRENT CONTROL (Real-time / During)\n" +
+      "   - Monitors activities AS THEY HAPPEN\n" +
+      "   - Focus: Processes and activities in real time\n" +
+      "   - Examples: Direct supervision, dashboards, automated monitoring\n" +
+      "   - Allows immediate correction but can be costly\n\n" +
+      "3. FEEDBACK CONTROL (Post-hoc / After)\n" +
+      "   - Evaluates results AFTER activities are completed\n" +
+      "   - Focus: Outputs and outcomes\n" +
+      "   - Examples: Financial reports, customer surveys, performance reviews\n" +
+      "   - Most common but correction comes after the fact\n\n" +
+      "KEY PERFORMANCE INDICATORS (KPIs)\n" +
+      "- Quantifiable measures of performance against objectives\n" +
+      "- Financial KPIs: Revenue, profit margin, ROI, cash flow\n" +
+      "- Non-financial KPIs: Customer satisfaction, employee turnover, quality defects\n" +
+      "- Must be SMART: Specific, Measurable, Attainable, Results-based, Time-bound\n\n" +
+      "BALANCED SCORECARD CONCEPTS\n" +
+      "- Integrates multiple performance perspectives beyond just financial\n" +
+      "- Four perspectives:\n" +
+      "  1. Financial: How do we look to shareholders? (profitability, revenue growth)\n" +
+      "  2. Customer: How do customers see us? (satisfaction, retention, market share)\n" +
+      "  3. Internal Process: What must we excel at? (efficiency, quality, innovation)\n" +
+      "  4. Learning & Growth: Can we continue to improve? (training, culture, IT)\n" +
+      "- Links strategy to operational metrics\n\n" +
+      "CONTROL AND THE MANAGEMENT FUNCTIONS\n" +
+      "- Controlling closes the loop: Planning → Organizing → Leading → Controlling\n" +
+      "- Without control, managers cannot know if goals are being achieved\n" +
+      "- Effective control requires clear standards, accurate measurement, and willingness to act",
+    keyPoints: [
+      "Control process: Set standards → Measure performance → Compare → Take corrective action",
+      "Feedforward: Prevents problems before they occur (most desirable, focuses on inputs)",
+      "Concurrent: Monitors in real time during activities (direct supervision, dashboards)",
+      "Feedback: Evaluates after completion (most common but reactive — financial reports, reviews)",
+      "KPIs are quantifiable measures of performance — financial and non-financial",
+      "Balanced scorecard: Financial + Customer + Internal Process + Learning & Growth perspectives",
+      "Controlling closes the management loop and ensures goals are being achieved"
+    ],
+    source: "CH 16 - Managerial Control"
+  },
+  {
+    id: "rev_mgmt_19",
+    title: "Knowledge Management & Innovation",
+    content: "KNOWLEDGE MANAGEMENT & INNOVATION\n" +
+      "====================================\n\n" +
+      "KNOWLEDGE MANAGEMENT\n" +
+      "- Process of cultivating, sharing, and applying organizational knowledge\n" +
+      "- Explicit knowledge: Documented, codified (manuals, databases, procedures)\n" +
+      "- Tacit knowledge: Personal, experiential, hard to formalize (intuition, skills)\n" +
+      "- Goal: Convert individual knowledge into organizational capability\n" +
+      "- Knowledge workers: Employees whose primary contribution is expertise and ideas\n\n" +
+      "T-SHAPED MANAGER\n" +
+      "- Vertical bar: Deep expertise in ONE discipline\n" +
+      "- Horizontal bar: Broad understanding ACROSS multiple disciplines\n" +
+      "- Can collaborate effectively across functional boundaries\n" +
+      "- Combines specialist depth with generalist breadth\n" +
+      "- Increasingly valued in complex, interdisciplinary environments\n\n" +
+      "INNOVATION\n" +
+      "- Developing new products, services, processes, or business models\n" +
+      "- Incremental innovation: Small, continuous improvements\n" +
+      "- Radical innovation: Breakthrough, game-changing developments\n" +
+      "- Innovation as a competitive advantage driver\n" +
+      "- Requires: Creativity, risk tolerance, resource investment, supportive culture\n\n" +
+      "TOTAL QUALITY MANAGEMENT (TQM)\n" +
+      "- Organization-wide commitment to continuous quality improvement\n" +
+      "- Customer focus: Quality defined by customer expectations\n" +
+      "- Employee involvement: Everyone responsible for quality\n" +
+      "- Process-centered: Focus on improving processes, not just outputs\n" +
+      "- Data-driven: Use statistical tools to measure and improve\n\n" +
+      "KAIZEN (Continuous Improvement)\n" +
+      "- Japanese philosophy of continuous, incremental improvement\n" +
+      "- Small, ongoing positive changes compound over time\n" +
+      "- Everyone participates — from CEO to shop floor worker\n" +
+      "- Focus on eliminating waste (muda), reducing variability\n" +
+      "- Complements TQM and lean management approaches\n\n" +
+      "WEF 2030 TOP SKILLS\n" +
+      "- Analytical thinking\n" +
+      "- Creative thinking\n" +
+      "- Resilience, flexibility, and agility\n" +
+      "- Motivation and self-awareness\n" +
+      "- Curiosity and lifelong learning\n" +
+      "- Technological literacy\n" +
+      "- Empathy and active listening\n" +
+      "- Leadership and social influence\n" +
+      "- Emphasis on cognitive, interpersonal, and adaptive skills\n\n" +
+      "DEGLOBALIZATION\n" +
+      "- Reversal or slowdown of global economic integration\n" +
+      "- Drivers: Trade wars, pandemic disruptions, nationalism, supply chain risks\n" +
+      "- Reshoring: Bringing production back to home country\n" +
+      "- Nearshoring: Moving production closer to markets\n" +
+      "- Implications: Managers must build resilient, diversified supply chains",
+    keyPoints: [
+      "Knowledge management converts individual tacit/explicit knowledge into organizational capability",
+      "T-shaped manager: Deep expertise in one area + broad understanding across disciplines",
+      "Innovation: Incremental (continuous) vs. radical (breakthrough) — key competitive driver",
+      "TQM: Organization-wide commitment to quality through customer focus, employee involvement, data",
+      "Kaizen: Continuous, incremental improvement by everyone — eliminate waste, reduce variability",
+      "WEF 2030 skills emphasize analytical/creative thinking, resilience, curiosity, technological literacy",
+      "Deglobalization drives reshoring/nearshoring — managers need resilient supply chain strategies"
+    ],
+    source: "CH 1 - Introduction to Management"
+  },
+  {
+    id: "rev_mgmt_20",
+    title: "Ethical Decision Making in Practice",
+    content: "ETHICAL DECISION MAKING IN PRACTICE\n" +
+      "======================================\n\n" +
+      "APPLYING ETHICAL SYSTEMS: THE TROLLEY PROBLEM\n" +
+      "- Utilitarianism: Divert the trolley to save five at the cost of one (greatest good)\n" +
+      "- Universalism/Deontology: Do not actively kill — killing one to save five violates moral rules\n" +
+      "- Virtue Ethics: What would a person of good character do? Focus on integrity\n" +
+      "- Egoism: Choose the option that best serves your own interests\n" +
+      "- Relativism: The 'right' answer depends on cultural/contextual norms\n" +
+      "- Demonstrates that different ethical systems lead to different conclusions\n\n" +
+      "ETHICAL vs. SUSTAINABILITY MANAGEMENT\n" +
+      "- Ethics focuses on: Right vs. wrong behavior, moral principles, fairness, integrity\n" +
+      "- Sustainability focuses on: Long-term balance of economic, social, environmental impact\n" +
+      "- Ethics asks: 'Is this right?'\n" +
+      "- Sustainability asks: 'Can this continue without harming future generations?'\n" +
+      "- Both are needed: Ethical behavior can be unsustainable; sustainable practices can raise ethical questions\n\n" +
+      "CODE OF ETHICS\n" +
+      "- Formal document outlining an organization's ethical values and principles\n" +
+      "- Sets expectations for employee behavior\n" +
+      "- Covers: Conflicts of interest, confidentiality, fair dealing, compliance, reporting\n" +
+      "- Must be communicated, enforced, and modeled by leadership\n" +
+      "- Limitation: Having a code does not guarantee ethical behavior\n\n" +
+      "PRACTICAL ETHICAL DECISION-MAKING FRAMEWORK\n" +
+      "1. Identify the ethical issue or dilemma\n" +
+      "2. Gather relevant facts and identify stakeholders\n" +
+      "3. Evaluate alternatives through multiple ethical lenses\n" +
+      "4. Make a decision and test it (would you be comfortable if it were public?)\n" +
+      "5. Implement the decision and reflect on outcomes\n\n" +
+      "COMMON ETHICAL DILEMMAS IN MANAGEMENT\n" +
+      "- Whistleblowing: Reporting unethical behavior vs. loyalty to organization\n" +
+      "- Conflicts of interest: Personal gain vs. organizational duty\n" +
+      "- Bribery and corruption: Local customs vs. universal ethical standards\n" +
+      "- Data privacy: Business intelligence vs. individual rights\n" +
+      "- Labor practices: Cost minimization vs. fair treatment of workers\n\n" +
+      "THE ROLE OF LEADERSHIP IN ETHICS\n" +
+      "- Ethical leadership: Modeling integrity, promoting transparency, holding people accountable\n" +
+      "- Tone at the top: Senior leaders set the ethical climate\n" +
+      "- Ethical culture requires: Clear values, consistent enforcement, safe reporting channels\n" +
+      "- Unethical leaders undermine codes of ethics regardless of how well written they are\n\n" +
+      "WARNING: SEVEN SIGNS OF ETHICAL TROUBLE (Revisited)\n" +
+      "- 'Everybody does it' — normalizing unethical behavior\n" +
+      "- 'It doesn't really hurt anyone' — minimizing harm\n" +
+      "- 'That's the way it's always been done' — tradition as justification\n" +
+      "- 'We'll wait until lawyers say it's wrong' — legal ≠ ethical\n" +
+      "- 'It's not our department' — diffusion of responsibility\n" +
+      "- 'We can fix it later' — procrastinating ethical action\n" +
+      "- 'No one will ever know' — secrecy as rationalization",
+    keyPoints: [
+      "The trolley problem shows how different ethical systems (utilitarianism, deontology, virtue) lead to different answers",
+      "Ethics asks 'is this right?'; sustainability asks 'can this continue without harming future generations?'",
+      "A code of ethics sets expectations but does not guarantee ethical behavior — requires enforcement and modeling",
+      "Ethical decision framework: Identify issue → gather facts → evaluate through ethical lenses → decide → reflect",
+      "Common dilemmas: whistleblowing, conflicts of interest, bribery, data privacy, labor practices",
+      "Ethical leadership sets 'tone at the top' — leaders must model integrity and enforce standards",
+      "Legal ≠ ethical — compliance is necessary but not sufficient for ethical management"
+    ],
+    source: "CH 5 - Ethics, Corporate Social Responsibility, and Sustainability"
   }
 ];
