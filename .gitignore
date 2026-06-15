@@ -1,0 +1,12 @@
+# Source documents (course PDFs, PPTX, DOCX) — not needed for the web app
+Marketing/
+Management/
+
+# Backup
+.backup/
+
+# Temp files
+/tmp/
+
+# DS_Store
+.DS_Store
